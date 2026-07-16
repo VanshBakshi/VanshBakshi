@@ -1,4 +1,4 @@
-![logo](https://github.com/VanshBakshi/VanshBakshi/blob/main/Orange%20And%20White%20Gradient%20Workshop%20Banner.png?raw=true)
+![logo](https://github.com/VanshBakshi/VanshBakshi/blob/main/Gemini_Generated_Image_73r2sv73r2sv73r2%20(1).png)
 <h1 align="center">Hi 👋, I'm Vansh Bakshi</h1>
 
 <h3 align="center">
