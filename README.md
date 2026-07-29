@@ -39,7 +39,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="55">
 </a>
 
-<a href="https://instagram.com/_laddi__bakshi">
+<a href="https://instagram.com/_laddi_bakshi">
 <img src="https://skillicons.dev/icons?i=instagram" width="55">
 </a>
 
