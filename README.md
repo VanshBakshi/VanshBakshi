@@ -1,166 +1,302 @@
-![logo](https://github.com/VanshBakshi/VanshBakshi/blob/main/Gemini_Generated_Image_73r2sv73r2sv73r2%20(1).png)
-<h1 align="center">⚔️ Hi, I'm Vansh Bakshi ⚔️</h1>
+<p align="center">
+  <img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/Gemini_Generated_Image_73r2sv73r2sv73r2%20(1).png" width="100%" alt="Banner"/>
+</p>
+
+<h1 align="center">⚔️ Vansh Bakshi ⚔️</h1>
 
 <h3 align="center">
-🪽 Humanity's Last Developer | 🌐 Full Stack Web Developer | 📱 Flutter Developer | 🐍 Python Programmer
+🚀 Full Stack Developer • 📱 Flutter Developer • 🐍 Python Programmer • 💡 Tech Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=850&lines=Dedicate+Your+Heart+⚔️;Full+Stack+Developer;Flutter+Developer;Python+Programmer;Always+Learning+New+Things;Keep+Moving+Forward...;Shinzou+Wo+Sasageyo!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+App+Developer;Python+Programmer;AI+%26+Machine+Learning+Learner;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Moving+Forward+⚔️" />
 </p>
 
-<img align="right" width="420" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-
-# ⚔️ About Me
-
-- 🎓 BCA Student
-- 🌐 Full Stack Web Developer
-- 📱 Flutter App Developer
-- 🐍 Python Programmer
-- 💻 Passionate about Web & Mobile Development
-- 🚀 Currently Learning **React • Node.js • Backend**
-- ⚡ Fun Fact: **I Turn ☕ Into Code**
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VanshBakshi?label=Followers&style=for-the-badge&color=blue"/>
+  <img src="https://img.shields.io/github/stars/VanshBakshi?label=Stars&style=for-the-badge&color=yellow"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile-Active-success?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🏹 Titan Philosophy
+# ⚔️ About Me
 
-> **"If you win, you live. If you lose, you die. If you don't fight, you can't win."**
->
-> **— Eren Yeager**
+🎓 **BCA Student** passionate about building modern web, mobile, and AI-powered applications.
+
+✨ I love creating projects that combine **design, functionality, and performance**.
+
+- 🌐 Full Stack Web Development
+- 📱 Flutter App Development
+- 🐍 Python Programming
+- 🤖 AI & Machine Learning Enthusiast
+- 💻 UI/UX & Responsive Design
+- 🔥 Backend Development (Node.js, Express, MongoDB)
+- 🚀 Currently learning **React, Node.js, APIs, and Cloud Technologies**
+- 🧠 Exploring **Data Science & Machine Learning**
+- ⚡ Fun Fact: **I turn coffee ☕ into code**
+- 🎯 Goal: **Become a skilled Full Stack + AI Engineer**
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/vansh%20bakshi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+  </a>
+  <a href="https://instagram.com/_laddi_bakshi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="60"/>
+  </a>
+  <a href="mailto:vanshbakshi62@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+  </a>
+  <a href="https://github.com/VanshBakshi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60"/>
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/vansh%20bakshi">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55">
-</a>
-
-<a href="https://instagram.com/_laddi_bakshi">
-<img src="https://skillicons.dev/icons?i=instagram" width="55">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" width="55">
-</a>
-
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:vanshbakshi62@gmail.com">vanshbakshi62@gmail.com</a>
 </p>
 
 ---
 
-# ⚔️ Scout Regiment Skills
+# 🛠️ Tech Stack
 
-### 🌐 Web Development
-
+## 🌐 Web Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb" />
 </p>
 
-### 📱 Mobile Development
-
+## 📱 Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-### 💻 Programming Languages
-
+## 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
 </p>
 
-### ⚙️ Developer Tools
-
+## ⚙️ Tools & Platforms
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio,postman" />
 </p>
 
----
-
-# 📊 Titan Battle Stats
-
+## 📊 Databases & Backend
 <p align="center">
-
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=vanshbakshi&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbakshi&theme=highcontrast&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,express" />
 </p>
 
+## ☁️ Deployment & Hosting
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshbakshi&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
 </p>
 
 ---
 
-# 🏆 Titan Achievements
+# 📚 Currently Learning
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,python" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanshbakshi&theme=onedark&row=1&column=7&margin-w=15&margin-h=15"/>
+- 🔹 React Advanced Concepts
+- 🔹 REST APIs & Authentication
+- 🔹 MongoDB Database Design
+- 🔹 Machine Learning with Python
+- 🔹 Data Analysis using Pandas & NumPy
 
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VanshBakshi&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBakshi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBakshi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Battle Activity
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshbakshi&theme=react-dark"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBakshi&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🚀 Titan Arsenal
+# 🏆 GitHub Trophies
 
-⚔️ ATM Management System
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VanshBakshi&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
+</p>
 
-📱 Flutter Calculator
+---
 
-🤖 AI Health Monitoring System
+# 🚀 Featured Projects
 
-🌐 Portfolio Website
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-🎮 Python Games
+### ⚔️ ATM Management System
+Java-based banking management application.
 
-💻 Full Stack Web Applications
+</td>
+<td align="center" width="50%">
+
+### 📱 Flutter Calculator App
+Modern calculator app built with Flutter.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🤖 AI Health Monitoring System
+AI-powered health monitoring & alert system.
+
+</td>
+<td align="center" width="50%">
+
+### 🌐 Personal Portfolio Website
+Responsive developer portfolio website.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🎮 Python Mini Games
+Collection of beginner-friendly Python games.
+
+</td>
+<td align="center" width="50%">
+
+### 💻 Full Stack Web Applications
+MERN stack projects with authentication & APIs.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📌 Pinned Project Ideas
+
+- 🏥 Smart Health Monitoring System
+- 🌊 Water-Borne Disease Early Warning System
+- 🏋️ AI Gym Trainer App
+- 💳 Credit Card Fraud Detection using XGBoost
+- 📉 Customer Churn Prediction System
+- 💰 Loan Approval Prediction App
+
+---
+
+# 🧠 Coding Profiles
+
+<p align="center">
+  <a href="https://github.com/VanshBakshi">
+    <img src="https://img.shields.io/badge/GitHub-VanshBakshi-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+Python        ████████████░░░░░░░░░░   50%
+JavaScript    ████████░░░░░░░░░░░░░░   30%
+Flutter/Dart  ████░░░░░░░░░░░░░░░░░░   12%
+HTML/CSS      ███░░░░░░░░░░░░░░░░░░░    8%
+```
+<!--END_SECTION:waka-->
+
+---
+
+# ⚡ Fun Facts
+
+- 🎧 I enjoy coding while listening to music.
+- 🌙 Night-time coding feels the most productive.
+- 🧩 I love solving programming problems.
+- 🚀 I enjoy building projects from scratch.
+- 📱 I am interested in mobile app UI design.
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build **10+ Full Stack Projects**
+- ✅ Contribute to **Open Source**
+- 🔄 Learn **Advanced React**
+- 🔄 Learn **Backend APIs & Authentication**
+- 🔄 Publish **Flutter Apps**
+- 🔄 Improve **DSA & Problem Solving**
+- 🔄 Explore **AI & Machine Learning**
+
+---
+
+# 📜 Certifications & Learning
+
+- 📘 Python Programming
+- 📘 Web Development Fundamentals
+- 📘 Flutter Development
+- 📘 Git & GitHub
+- 📘 AI / ML Basics *(Learning)*
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/vanshbakshi/vanshbakshi/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/VanshBakshi/VanshBakshi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
 
-# ⚔️ Motto
+# 💡 Developer Philosophy
 
-<div align="center">
+<p align="center">
+  <i>"The world is cruel, but also very beautiful."</i>
+</p>
 
-## 🪽 Keep Moving Forward
+<p align="center">
+  <b>🪽 Keep Moving Forward 🪽</b>
+</p>
 
-*"The world is cruel, but also very beautiful."*
+---
 
-</div>
+# 📫 Let's Collaborate
+
+💬 I'm always open to:
+
+- Open Source Collaboration
+- Web Development Projects
+- Flutter App Projects
+- Python Projects
+- AI/ML Learning Projects
+
+📧 **Email:** [vanshbakshi62@gmail.com](mailto:vanshbakshi62@gmail.com)
 
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vanshbakshi&label=PROFILE+VIEWS&style=for-the-badge&color=8B0000"/>
-
+  <img src="https://komarev.com/ghpvc/?username=VanshBakshi&label=PROFILE+VIEWS&style=for-the-badge&color=8B0000"/>
 </p>
 
-<h2 align="center">
-⭐ Thanks for visiting my Titan Profile ⭐
-</h2>
+<h2 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h2>
+
+<p align="center">
+  <b>Made with ❤️ by Vansh Bakshi</b>
+</p>
