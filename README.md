@@ -1,302 +1,586 @@
+<div align="center">
+
+# 🤖 V A N S H   B A K S H I
+
+### `AI • SOFTWARE • ROBOTICS • FULL STACK • CYBERSECURITY`
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Initializing+Vansh+AI+System...;Booting+Developer+Robot...;Python+%7C+AI%2FML+%7C+Flutter+%7C+Full+Stack;Building+Real+World+Software+Systems;Turning+Ideas+Into+Working+Projects...;SYSTEM+ONLINE+%E2%9C%93" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=VanshBakshi&label=SYSTEM+VISITORS&style=for-the-badge&color=00e5ff" />
+<img src="https://img.shields.io/github/followers/VanshBakshi?label=NETWORK&style=for-the-badge&color=111827" />
+<img src="https://img.shields.io/github/stars/VanshBakshi?label=PROJECT+STARS&style=for-the-badge&color=111827" />
+
+</div>
+
+---
+
+# 🤖 ROBOT CONTROL CENTER
+
+<div align="center">
+
+```text
+                  ┌───────────────────────────────────────┐
+                  │        V A N S H   A I   C O R E      │
+                  ├───────────────────────────────────────┤
+                  │                                       │
+                  │             ╭─────────╮               │
+                  │             │  ◉   ◉  │               │
+                  │             │    ▽    │               │
+                  │             │  ╰───╯  │               │
+                  │             ╰────┬────╯               │
+                  │                  │                     │
+                  │            ╭─────┴─────╮               │
+                  │            │  AI CORE  │               │
+                  │            ╰─────┬─────╯               │
+                  │              ╭───┴───╮                 │
+                  │             ╱         ╲                │
+                  │            ╱  ROBOT     ╲               │
+                  │           ╱   ONLINE     ╲              │
+                  │          ╱_______________╲              │
+                  │                                       │
+                  ├───────────────────────────────────────┤
+                  │ STATUS      : ONLINE                  │
+                  │ MODE        : BUILD                  │
+                  │ AI CORE     : ACTIVE                 │
+                  │ ROBOT       : WORKING                │
+                  │ IDEAS       : PROCESSING              │
+                  └───────────────────────────────────────┘
+```
+
+### `🤖 ROBOT STATUS`
+
+| SYSTEM            | STATUS        |
+| ----------------- | ------------- |
+| 🧠 AI Core        | 🟢 ONLINE     |
+| 🤖 Robot Agent    | 🟢 ACTIVE     |
+| 🐍 Python Engine  | 🟢 READY      |
+| 🌐 Web Engine     | 🟢 READY      |
+| 📱 Flutter Engine | 🟢 READY      |
+| 🛡️ Cyber Engine  | 🟢 MONITORING |
+| 💾 Database       | 🟢 CONNECTED  |
+| 🚀 Project Engine | 🟢 BUILDING   |
+
+</div>
+
+---
+
+# 🧠 WHO AM I?
+
+```python
+class VanshBakshi:
+
+    name = "Vansh Bakshi"
+
+    role = [
+        "Full Stack Developer",
+        "Flutter Developer",
+        "Python Programmer",
+        "AI/ML Developer",
+        "Cybersecurity Project Builder"
+    ]
+
+    education = "BCA — Maharshi Dayanand University"
+
+    interests = [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Generative AI",
+        "Cybersecurity",
+        "Software Development",
+        "Automation",
+        "Data Analysis",
+        "Mobile Applications"
+    ]
+
+    philosophy = "Build → Break → Learn → Improve"
+
+    current_mode = "BUILDING"
+```
+
+---
+
+# 🤖 THE IDEA DELIVERY ROBOT
+
+<div align="center">
+
+```text
+       IDEA FACTORY                                      PROJECT LAB
+
+     ┌─────────────┐                                ┌─────────────────┐
+     │             │                                │                 │
+     │   💡 IDEA   │                                │   🚀 PROJECT   │
+     │             │                                │                 │
+     └──────┬──────┘                                └──────▲──────────┘
+            │                                                │
+            │                                                │
+            │          🤖                                    │
+            └─────────►╔═══╗═══════════════════════════════►│
+                       ║ AI║
+                       ╚═══╝
+                        │
+                       /|\
+                      / | \
+                     /  |  \
+                    🤖  │  🤖
+                        │
+                     PROCESS
+                        │
+                        ▼
+                  ┌───────────┐
+                  │  CODE IT  │
+                  └───────────┘
+```
+
+### `ROBOT MISSION`
+
+**Collect Idea → Analyze → Design → Code → Test → Deploy**
+
+</div>
+
+> 💡 **Idea enters the robot.**
+> 🧠 AI processes the idea.
+> ⚙️ Engineering engine builds the system.
+> 🚀 Finished project moves to production.
+
+---
+
+# ⚡ LIVE AI COMMAND TERMINAL
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                  VANSH-AI TERMINAL v2.0                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  > boot robot                                              ║
+║  ✓ ROBOT CORE ONLINE                                       ║
+║                                                            ║
+║  > load developer                                          ║
+║  ✓ VANSH BAKSHI LOADED                                     ║
+║                                                            ║
+║  > scan skills                                             ║
+║  ✓ PYTHON                                                  ║
+║  ✓ AI / MACHINE LEARNING                                   ║
+║  ✓ FLUTTER                                                 ║
+║  ✓ JAVASCRIPT                                              ║
+║  ✓ FULL STACK                                               ║
+║  ✓ CYBERSECURITY                                           ║
+║                                                            ║
+║  > analyze current mission                                 ║
+║  ✓ BUILD SOMETHING REAL                                    ║
+║                                                            ║
+║  > execute                                                 ║
+║  ████████████████████████████████████████████████ 100%    ║
+║                                                            ║
+║  SYSTEM READY 🚀                                           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧬 AI CORE
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Generative_AI-00E5FF?style=for-the-badge&logo=openai&logoColor=black" />
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=googlebard&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/NLP-00E5FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-00E5FF?style=for-the-badge" />
+
+</div>
+
+### AI SYSTEMS I WORK WITH
+
+```text
+                    ┌──────────────┐
+                    │   AI INPUT   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │     NLP      │
+                    └──────┬───────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+           LLMs           RAG          ML
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                    ┌──────────────┐
+                    │ AI DECISION  │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    🚀 APPLICATION
+```
+
+---
+
+# 🛠️ TECHNOLOGY MATRIX
+
+## 🌐 WEB
+
 <p align="center">
-  <img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/Gemini_Generated_Image_73r2sv73r2sv73r2%20(1).png" width="100%" alt="Banner"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,bootstrap,tailwind" />
 </p>
 
-<h1 align="center">⚔️ Vansh Bakshi ⚔️</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer • 📱 Flutter Developer • 🐍 Python Programmer • 💡 Tech Enthusiast
-</h3>
+## 🐍 PROGRAMMING
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Flutter+App+Developer;Python+Programmer;AI+%26+Machine+Learning+Learner;Open+Source+Contributor;Always+Learning+New+Technologies;Keep+Moving+Forward+⚔️" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,dart" />
 </p>
 
+## 📱 MOBILE
+
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VanshBakshi?label=Followers&style=for-the-badge&color=blue"/>
-  <img src="https://img.shields.io/github/stars/VanshBakshi?label=Stars&style=for-the-badge&color=yellow"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Lover-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Profile-Active-success?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+</p>
+
+## 🧠 AI / DATA
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
+</p>
+
+## 🛡️ CYBERSECURITY
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Network_Analysis-111827?style=for-the-badge&logo=wireshark&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Threat_Detection-111827?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/Log_Analysis-111827?style=for-the-badge&logo=datadog&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ML_Detection-111827?style=for-the-badge&logo=scikitlearn&logoColor=00E5FF" />
+
+</p>
+
+## ⚙️ TOOLS
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,docker" />
+</p>
+
+## 🗄️ DATABASE
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
 ---
 
-# ⚔️ About Me
-
-🎓 **BCA Student** passionate about building modern web, mobile, and AI-powered applications.
-
-✨ I love creating projects that combine **design, functionality, and performance**.
-
-- 🌐 Full Stack Web Development
-- 📱 Flutter App Development
-- 🐍 Python Programming
-- 🤖 AI & Machine Learning Enthusiast
-- 💻 UI/UX & Responsive Design
-- 🔥 Backend Development (Node.js, Express, MongoDB)
-- 🚀 Currently learning **React, Node.js, APIs, and Cloud Technologies**
-- 🧠 Exploring **Data Science & Machine Learning**
-- ⚡ Fun Fact: **I turn coffee ☕ into code**
-- 🎯 Goal: **Become a skilled Full Stack + AI Engineer**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vansh%20bakshi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-  </a>
-  <a href="https://instagram.com/_laddi_bakshi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="60"/>
-  </a>
-  <a href="mailto:vanshbakshi62@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-  </a>
-  <a href="https://github.com/VanshBakshi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="60"/>
-  </a>
-</p>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:vanshbakshi62@gmail.com">vanshbakshi62@gmail.com</a>
-</p>
-
----
-
-# 🛠️ Tech Stack
-
-## 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb" />
-</p>
-
-## 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
-</p>
-
-## 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
-</p>
-
-## ⚙️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,androidstudio,postman" />
-</p>
-
-## 📊 Databases & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,nodejs,express" />
-</p>
-
-## ☁️ Deployment & Hosting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,python" />
-</p>
-
-- 🔹 React Advanced Concepts
-- 🔹 REST APIs & Authentication
-- 🔹 MongoDB Database Design
-- 🔹 Machine Learning with Python
-- 🔹 Data Analysis using Pandas & NumPy
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=VanshBakshi&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBakshi&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBakshi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBakshi&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VanshBakshi&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 🚀 Featured Projects
+# 🚀 PROJECT LAB
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
 
-### ⚔️ ATM Management System
-Java-based banking management application.
+<td width="50%" align="center">
 
-</td>
-<td align="center" width="50%">
+## 🧠 ResumeCheck-AI
 
-### 📱 Flutter Calculator App
-Modern calculator app built with Flutter.
+AI-powered resume analysis platform.
+
+`ATS` `NLP` `Python` `AI`
 
 </td>
+
+<td width="50%" align="center">
+
+## 🛡️ CyberSentinel AI
+
+AI-powered cybersecurity intelligence system.
+
+`Cybersecurity` `ML` `Python`
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### 🤖 AI Health Monitoring System
-AI-powered health monitoring & alert system.
+<td width="50%" align="center">
 
-</td>
-<td align="center" width="50%">
+## 🚨 JeevanSetu
 
-### 🌐 Personal Portfolio Website
-Responsive developer portfolio website.
+AI-powered disaster response platform.
+
+`Flutter` `Python` `AI/ML`
 
 </td>
+
+<td width="50%" align="center">
+
+## 📊 Credit Risk AI
+
+Machine learning based credit risk assessment.
+
+`Python` `Scikit-Learn` `ML`
+
+</td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
 
-### 🎮 Python Mini Games
-Collection of beginner-friendly Python games.
+<td width="50%" align="center">
 
-</td>
-<td align="center" width="50%">
+## 🔍 Log Intelligence
 
-### 💻 Full Stack Web Applications
-MERN stack projects with authentication & APIs.
+Windows/Linux/application log analysis system.
+
+`Python` `Pandas` `Regex`
 
 </td>
+
+<td width="50%" align="center">
+
+## 🤖 SupportOps AI
+
+AI-assisted support operations intelligence platform.
+
+`Python` `AI` `Automation`
+
+</td>
+
 </tr>
+
 </table>
 
 ---
 
-# 📌 Pinned Project Ideas
+# 🛡️ CYBER SENTINEL
 
-- 🏥 Smart Health Monitoring System
-- 🌊 Water-Borne Disease Early Warning System
-- 🏋️ AI Gym Trainer App
-- 💳 Credit Card Fraud Detection using XGBoost
-- 📉 Customer Churn Prediction System
-- 💰 Loan Approval Prediction App
-
----
-
-# 🧠 Coding Profiles
-
-<p align="center">
-  <a href="https://github.com/VanshBakshi">
-    <img src="https://img.shields.io/badge/GitHub-VanshBakshi-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
 ```text
-Python        ████████████░░░░░░░░░░   50%
-JavaScript    ████████░░░░░░░░░░░░░░   30%
-Flutter/Dart  ████░░░░░░░░░░░░░░░░░░   12%
-HTML/CSS      ███░░░░░░░░░░░░░░░░░░░    8%
+             NETWORK
+                │
+                ▼
+        ┌───────────────┐
+        │ TRAFFIC SENSOR│
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │ FEATURE ENGINE│
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │   ML MODEL    │
+        └───────┬───────┘
+                │
+          ┌─────┴─────┐
+          ▼           ▼
+       NORMAL       THREAT
+          │           │
+          ▼           ▼
+        ALLOW        ALERT
 ```
-<!--END_SECTION:waka-->
+
+### Security Intelligence
+
+* Network threat detection
+* ML-based anomaly detection
+* Log intelligence
+* Threat classification
+* Security analytics
+* Automated alerting
+* Cybersecurity dashboards
 
 ---
 
-# ⚡ Fun Facts
+# 📈 GITHUB COMMAND CENTER
 
-- 🎧 I enjoy coding while listening to music.
-- 🌙 Night-time coding feels the most productive.
-- 🧩 I love solving programming problems.
-- 🚀 I enjoy building projects from scratch.
-- 📱 I am interested in mobile app UI design.
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshBakshi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF" />
 
-# 🎯 2026 Goals
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VanshBakshi&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF" />
 
-- ✅ Build **10+ Full Stack Projects**
-- ✅ Contribute to **Open Source**
-- 🔄 Learn **Advanced React**
-- 🔄 Learn **Backend APIs & Authentication**
-- 🔄 Publish **Flutter Apps**
-- 🔄 Improve **DSA & Problem Solving**
-- 🔄 Explore **AI & Machine Learning**
+<br><br>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBakshi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" />
+
+</div>
 
 ---
 
-# 📜 Certifications & Learning
+# 📡 CONTRIBUTION NETWORK
 
-- 📘 Python Programming
-- 📘 Web Development Fundamentals
-- 📘 Flutter Development
-- 📘 Git & GitHub
-- 📘 AI / ML Basics *(Learning)*
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VanshBakshi&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" />
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VanshBakshi/VanshBakshi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+# 🐍 ROBOT CONTRIBUTION MONITOR
 
-<p align="center">
-  <i>"The world is cruel, but also very beautiful."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>🪽 Keep Moving Forward 🪽</b>
-</p>
+<img src="https://raw.githubusercontent.com/VanshBakshi/VanshBakshi/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-# 📫 Let's Collaborate
+# 🏆 ACHIEVEMENT CORE
 
-💬 I'm always open to:
+<div align="center">
 
-- Open Source Collaboration
-- Web Development Projects
-- Flutter App Projects
-- Python Projects
-- AI/ML Learning Projects
+<img src="https://github-profile-trophy.vercel.app/?username=VanshBakshi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
-📧 **Email:** [vanshbakshi62@gmail.com](mailto:vanshbakshi62@gmail.com)
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VanshBakshi&label=PROFILE+VIEWS&style=for-the-badge&color=8B0000"/>
-</p>
+# 📊 DEVELOPMENT ENGINE
 
-<h2 align="center">⭐ Thanks for visiting my GitHub profile ⭐</h2>
+```text
+                 VANSH DEVELOPMENT ENGINE
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+      BUILD            LEARN            SOLVE
+        │                │                │
+        ▼                ▼                ▼
+     PROJECTS           AI/ML           DSA
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+                       SHIP
+                         │
+                         ▼
+                       🚀
+```
 
-<p align="center">
-  <b>Made with ❤️ by Vansh Bakshi</b>
-</p>
+---
+
+# 🧪 CURRENT EXPERIMENTS
+
+```text
+[01] ████████████████████ AI APPLICATIONS
+
+[02] ████████████████████ CYBERSECURITY AI
+
+[03] ██████████████████░░ FULL STACK SYSTEMS
+
+[04] ████████████████░░░░ FLUTTER APPLICATIONS
+
+[05] ██████████████░░░░░░ GENAI / RAG
+
+[06] █████████████░░░░░░░ AUTOMATION
+```
+
+---
+
+# 🎯 2026 MISSION
+
+```text
+╔══════════════════════════════════════════════════╗
+║                  2026 MISSION                   ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  [✓] Build real-world software                  ║
+║  [✓] Build AI-powered applications              ║
+║  [✓] Explore cybersecurity                      ║
+║  [→] Improve DSA                                 ║
+║  [→] Build advanced Full Stack systems           ║
+║  [→] Develop production-ready AI tools           ║
+║  [→] Contribute to Open Source                   ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
+---
+
+# 🧠 LEARNING PROTOCOL
+
+<div align="center">
+
+```text
+             ┌──────────────┐
+             │     IDEA     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   RESEARCH   │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    BUILD     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │    TEST      │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   DEPLOY     │
+             └──────┬───────┘
+                    ↓
+             ┌──────────────┐
+             │   IMPROVE    │
+             └──────────────┘
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT TO VANSH
+
+<div align="center">
+
+<a href="https://github.com/VanshBakshi">
+<img src="https://img.shields.io/badge/GitHub-VanshBakshi-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<a href="https://linkedin.com/in/vansh%20bakshi">
+<img src="https://img.shields.io/badge/LinkedIn-Vansh_Bakshi-111827?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
+</a>
+
+<a href="mailto:vanshbakshi62@gmail.com">
+<img src="https://img.shields.io/badge/Email-vanshbakshi62%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+<a href="https://instagram.com/_laddi_bakshi">
+<img src="https://img.shields.io/badge/Instagram-_laddi__bakshi-111827?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
+</a>
+
+</div>
+
+---
+
+# 🤖 ROBOT FINAL MESSAGE
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│                  🤖 VANSH-AI ROBOT                     │
+│                                                        │
+│       "Give me an idea. I'll turn it into code."      │
+│                                                        │
+│                    STATUS: ONLINE                      │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+### `⚡ BUILD SOMETHING. BREAK SOMETHING. LEARN SOMETHING. ⚡`
+
+### `🚀 KEEP MOVING FORWARD`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:111827&height=120&section=footer" />
+
+</div>
