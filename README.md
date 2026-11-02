@@ -1,16 +1,19 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════╗
-║  V A N S H   B A K S H I   //   U L T I M A T E   E D I T I O N  v2  ║
-║  CYBERPUNK • ARTIFICIAL INTELLIGENCE • FULL STACK • CYBERSECURITY    ║
+║  V A N S H   B A K S H I   //   D I A G R A M   E D I T I O N   v4   ║
+║  NO TABLES • FLOWCHARTS EVERYWHERE • CYBERPUNK • AI • FULL STACK     ║
 ╚══════════════════════════════════════════════════════════════════════╝
- Tip: search this file for "TODO" to find the spots you should personalise.
+ Tip: search this file for "TODO" to personalise.
+ Every diagram is Mermaid, so GitHub renders it natively.
+ If one newer diagram type (sankey, xychart, block, quadrant) errors on your
+ profile, delete just that block; everything else keeps working.
 -->
 
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020024,15:090979,35:4B0082,55:9400D3,75:00D4FF,100:020024&text=VANSH%20BAKSHI&fontSize=66&fontColor=FFFFFF&fontAlignY=36&desc=THE%20MIND%20BEHIND%20THE%20MACHINE&descSize=19&descAlignY=55&animation=twinkling&stroke=00FFFF&strokeWidth=2" alt="Vansh Bakshi banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=950&height=100&lines=%3E+INITIALIZING+VANSH_OS...;%3E+ARTIFICIAL+INTELLIGENCE+%2F%2F+FULL+STACK;%3E+DESIGNING+TOMORROW'S+TECHNOLOGY;%3E+BUILDING+SYSTEMS+THAT+MATTER;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=1800&pause=500&color=00F5FF&center=true&vCenter=true&width=950&height=100&lines=%3E+INITIALIZING+VANSH_OS...;%3E+ARTIFICIAL+INTELLIGENCE+%2F%2F+FULL+STACK;%3E+GENAI+%7C+NLP+%7C+RAG+%7C+ML;%3E+BUILDING+SYSTEMS+THAT+MATTER;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Typing animation" />
 
 <br/>
 
@@ -38,17 +41,28 @@
 
 ---
 
-## 🧭 `00 // NAVIGATION MATRIX`
+## 🧭 `00 // NAVIGATION`
 
 <div align="center">
 
-| | | | |
-|:--:|:--:|:--:|:--:|
-| [🌌 About](#-01--welcome-to-the-cyber-universe) | [🤖 Tech Stack](#-02--the-technology-reactor) | [🛸 Projects](#-03--projects-from-the-digital-frontier) | [🏛️ Architecture](#️-04--system-architecture-thinking) |
-| [📊 Telemetry](#-05--developer-telemetry) | [🐍 Contributions](#-06--the-contribution-matrix) | [🧪 Mindset](#-07--the-engineering-mindset) | [🗺️ Roadmap](#️-08--roadmap-2026) |
-| [📚 Learning Log](#-09--learning-log) | [🎯 Focus Areas](#-10--current-focus) | [📡 Live Dashboard](#-11--live-dashboard) | [💻 Code Showcase](#-12--code-showcase) |
-| [🔬 Case Study](#-13--case-study-jeevansetu) | [🛡️ Quality & Security](#️-14--quality--security-practices) | [📡 Tech Radar](#-15--tech-radar--achievements) | [🏆 Milestones](#-16--milestones--recommendations) |
-| [❓ FAQ](#-17--faq) | [🌐 Contact](#-18--establish-connection) | | |
+[![About](https://img.shields.io/badge/🌌_ABOUT-0D1117?style=flat-square)](#-01--welcome-to-the-cyber-universe)
+[![Boot](https://img.shields.io/badge/🧬_BOOT-0D1117?style=flat-square)](#-02--boot-sequence)
+[![Stack](https://img.shields.io/badge/🤖_STACK-0D1117?style=flat-square)](#-03--the-technology-reactor)
+[![Projects](https://img.shields.io/badge/🛸_PROJECTS-0D1117?style=flat-square)](#-04--projects-from-the-digital-frontier)
+[![Architecture](https://img.shields.io/badge/🏛️_ARCHITECTURE-0D1117?style=flat-square)](#️-05--system-architecture-lab)
+[![AI](https://img.shields.io/badge/🧠_AI_LAB-0D1117?style=flat-square)](#-06--ai--ml-lab)
+[![Security](https://img.shields.io/badge/🛡️_SECURITY-0D1117?style=flat-square)](#️-07--security-lab)
+[![Telemetry](https://img.shields.io/badge/📊_TELEMETRY-0D1117?style=flat-square)](#-08--developer-telemetry)
+[![Mindset](https://img.shields.io/badge/🧪_MINDSET-0D1117?style=flat-square)](#-10--the-engineering-mindset)
+[![Roadmap](https://img.shields.io/badge/🗺️_ROADMAP-0D1117?style=flat-square)](#️-11--roadmap-2026)
+[![Learning](https://img.shields.io/badge/📚_LEARNING-0D1117?style=flat-square)](#-12--learning-lab)
+[![Code](https://img.shields.io/badge/💻_CODE-0D1117?style=flat-square)](#-13--code-showcase)
+[![Case Study](https://img.shields.io/badge/🔬_CASE_STUDY-0D1117?style=flat-square)](#-14--case-study-jeevansetu)
+[![DevOps](https://img.shields.io/badge/⚙️_DEVOPS-0D1117?style=flat-square)](#️-15--devops--quality)
+[![Radar](https://img.shields.io/badge/📡_RADAR-0D1117?style=flat-square)](#-16--tech-radar--goals)
+[![Journey](https://img.shields.io/badge/🏆_JOURNEY-0D1117?style=flat-square)](#-17--the-level-up-map)
+[![FAQ](https://img.shields.io/badge/❓_FAQ-0D1117?style=flat-square)](#-18--faq)
+[![Contact](https://img.shields.io/badge/🌐_CONTACT-0D1117?style=flat-square)](#-19--establish-connection)
 
 </div>
 
@@ -56,15 +70,9 @@
 
 # 🌌 `01 // WELCOME TO THE CYBER UNIVERSE`
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ## 👨‍🚀 WHO AM I?
 
-Hey there! I'm **Vansh Bakshi** — a technology enthusiast exploring the intersection of software engineering, artificial intelligence, automation, cybersecurity, and creative problem-solving.
-
-I enjoy turning ideas into useful digital experiences, experimenting with new technologies, and building projects that address real-world challenges. I believe in learning in public, documenting what I build, and improving with every iteration.
+Hey there! I'm **Vansh Bakshi**, a BCA student (MDU Rohtak, batch of 2027) and former technical trainer. I work at the intersection of **AI/ML, GenAI, NLP, RAG**, full stack engineering, and cybersecurity. I turn ideas into useful digital experiences, learn in public, and improve with every iteration.
 
 ```python
 from dataclasses import dataclass, field
@@ -75,15 +83,12 @@ from typing import List
 class VanshBakshi:
     name: str = "Vansh Bakshi"
     role: str = "Developer & Tech Enthusiast"
+    education: str = "BCA @ MDU Rohtak (2027)"
     base: str = "India 🇮🇳"
     interests: List[str] = field(default_factory=lambda: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Full Stack Development",
-        "Python Engineering",
-        "Flutter Applications",
-        "Cybersecurity",
-        "Intelligent Automation",
+        "Artificial Intelligence", "GenAI / NLP / RAG", "Machine Learning",
+        "Full Stack Development", "Python Engineering", "Flutter Applications",
+        "Cybersecurity", "Intelligent Automation",
     ])
     principles: List[str] = field(default_factory=lambda: [
         "Understand the problem first",
@@ -101,129 +106,253 @@ if __name__ == "__main__":
     print(VanshBakshi().next_evolution())
 ```
 
-</td>
-<td width="40%" align="center" valign="middle">
-
-<img width="100%" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Futuristic digital technology"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CREATIVE-MIND-FF00FF?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/LOGIC-ENGINE-00E5FF?style=for-the-badge"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/FUTURE-BUILDER-8A2BE2?style=for-the-badge"/>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
+
+<img width="260" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Futuristic digital technology"/>
 
 ### 🧬 MY DEVELOPER DNA
 
-`CURIOSITY` ➜ `LEARNING` ➜ `EXPERIMENTATION` ➜ `ENGINEERING` ➜ `INNOVATION`
-
 </div>
-
-### ⚡ Quick Facts
-
-| 🔹 | |
-|:--|:--|
-| 🔭 **Currently exploring** | AI/ML applications, secure software, cross-platform apps |
-| 🌱 **Currently learning** | Advanced Python, system design, ML model evaluation |
-| 👯 **Open to collaborate on** | Open-source, AI tooling, hackathon-style projects |
-| 💬 **Ask me about** | Python, Flutter, Flask, ML basics, project ideas |
-| 📫 **Reach me** | [vanshbakshi62@gmail.com](mailto:vanshbakshi62@gmail.com) |
-| ⚡ **Fun fact** | I try to turn every idea into a prototype, however small |
-
----
-
-# 🤖 `02 // THE TECHNOLOGY REACTOR`
-
-<div align="center">
-
-### ⚡ PROGRAMMING LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,dart&theme=dark&perline=7"/>
-
-### 🌐 WEB ENGINEERING
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi,tailwind&theme=dark&perline=7"/>
-
-### 📱 APP DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark&perline=7"/>
-
-### 🧠 ARTIFICIAL INTELLIGENCE & DATA
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark&perline=6"/>
-
-### 🛡️ SECURITY & NETWORKING
-
-<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,kali&theme=dark&perline=4"/>
-
-### 🛠️ DEVELOPMENT INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,mysql,postgres,mongodb&theme=dark&perline=8"/>
-
-</div>
-
-> **Note:** These icons represent technologies in my learning and development toolkit. My actual proficiency varies by technology.
-
-### 📈 Skill Focus Map
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A(["🔭 CURIOSITY"]) ==> B(["📖 LEARNING"]) ==> C(["🧪 EXPERIMENTATION"]) ==> D(["⚙️ ENGINEERING"]) ==> E(["💡 INNOVATION"])
+    E -.->|"new questions"| A
+    style A fill:#2a0a4a,stroke:#ff00ff,color:#fff
+    style E fill:#0b2a3a,stroke:#00ffb3,color:#fff
+```
+
+### ⚡ Quick Facts (as a constellation)
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart TB
+    V(("⚡ VANSH"))
+    V --- E["🎓 BCA at MDU Rohtak<br/>expected 2027"]
+    V --- X["🧑‍🏫 1 year as technical trainer<br/>Python · JS · Java · basic AI"]
+    V --- R["🔭 Exploring<br/>GenAI · RAG · secure software"]
+    V --- L["🌱 Learning<br/>Advanced Python · system design · ML evaluation"]
+    V --- C["👯 Open to<br/>open source · AI tooling · hackathons"]
+    V --- A["💬 Ask me about<br/>Python · Flutter · Flask · ML basics"]
+    V --- M["📫 vanshbakshi62@gmail.com"]
+    V --- F["⚡ Fun fact<br/>every idea becomes a prototype"]
+    classDef n fill:#0b0b2a,stroke:#8a2be2,color:#e6faff;
+    class E,X,R,L,C,A,M,F n;
+    style V fill:#2a0a4a,stroke:#ff00ff,color:#fff,stroke-width:3px
+```
+
+### 🗺️ Me, as a Mind Map
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
 mindmap
-  root((Vansh Bakshi))
-    AI & Data
-      Machine Learning
+  root((VANSH))
+    🧠 AI
+      GenAI
       NLP
-      Model Evaluation
-      Data Analysis
-    Web
+      RAG
+      ML Evaluation
+    🌐 Build
       Flask
       FastAPI
       React
       REST APIs
-    Mobile
+    📱 Mobile
       Flutter
       Dart
-      Offline-first Design
-    Security
+      Offline-first
+    🛡️ Security
       Threat Analysis
-      Cloud Misconfiguration
-      Security Automation
-    Foundations
-      Data Structures
-      Algorithms
-      Git Workflow
-      Linux
+      Cloud Misconfig
+      Secure Coding
+    🎓 Teach
+      Python
+      JavaScript
+      Java
+      Mentoring
 ```
-
-### 🧰 Proficiency Legend
-
-| Level | Meaning |
-|:--|:--|
-| 🟢 **Comfortable** | Used in projects and can work independently |
-| 🟡 **Building** | Actively practising through projects and coursework |
-| 🔵 **Exploring** | Learning fundamentals and running experiments |
-
-> **TODO:** Move each technology into the level that honestly matches you. Recruiters value accurate self-assessment more than a long icon wall.
-
-| Area | Technologies | Level |
-|:--|:--|:--:|
-| Languages | Python | 🟢 / 🟡 *(TODO)* |
-| Languages | Java, C, C++, JavaScript | 🟡 *(TODO)* |
-| Web | Flask, HTML, CSS, React | 🟡 *(TODO)* |
-| Mobile | Flutter, Dart | 🟡 *(TODO)* |
-| ML | scikit-learn, pandas, TensorFlow, PyTorch | 🔵 *(TODO)* |
-| Security | Linux, networking basics, security analytics | 🔵 *(TODO)* |
-| Tools | Git, GitHub, Docker, VS Code | 🟡 *(TODO)* |
 
 ---
 
-# 🛸 `03 // PROJECTS FROM THE DIGITAL FRONTIER`
+# 🧬 `02 // BOOT SEQUENCE`
+
+How "Vansh OS" starts every day:
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0b0b2a','primaryTextColor':'#00f5ff','primaryBorderColor':'#8a2be2','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A(["⏻ POWER ON"]) --> B["☕ Warm-up<br/>review notes"]
+    B --> C{"📋 Pick today's<br/>mission"}
+    C -->|Learn| D["📖 Docs + tutorials"]
+    C -->|Build| E["⌨️ Code a prototype"]
+    C -->|Practice| F["🧮 DSA problems"]
+    C -->|Teach| G["🧑‍🏫 Explain a concept"]
+    D --> H["📝 Write it down"]
+    E --> H
+    F --> H
+    G --> H
+    H --> I["🚀 Commit and push"]
+    I --> J(["🔁 LOOP"])
+    classDef core fill:#1a1040,stroke:#00f5ff,color:#e6faff,stroke-width:2px;
+    classDef accent fill:#2a0a4a,stroke:#ff00ff,color:#ffd6ff,stroke-width:2px;
+    class A,J core;
+    class C,I accent;
+```
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+journey
+    title A Day in the Build Loop
+    section Morning
+      Revise yesterday's notes: 4: Vansh
+      Solve 1-2 DSA problems: 3: Vansh
+    section Afternoon
+      Work on a project feature: 5: Vansh
+      Debug something stubborn: 2: Vansh
+      Finally fix it: 5: Vansh
+    section Evening
+      Read docs or watch a talk: 4: Vansh
+      Write notes and commit: 5: Vansh
+```
+
+### ⚡ Energy Flow of a Build Day
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+sankey-beta
+Coffee and focus,Learning,3
+Coffee and focus,Building,5
+Coffee and focus,DSA practice,2
+Learning,Notes,3
+Building,Commits,4
+Building,Bugs fixed,1
+DSA practice,Notes,2
+Notes,Future me,5
+Commits,Portfolio,4
+```
+
+---
+
+# 🤖 `03 // THE TECHNOLOGY REACTOR`
+
+<div align="center">
+
+### ⚡ PROGRAMMING LANGUAGES
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,dart&theme=dark&perline=7"/>
+
+### 🌐 WEB ENGINEERING
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,fastapi,tailwind&theme=dark&perline=7"/>
+
+### 📱 APP DEVELOPMENT
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,firebase&theme=dark&perline=4"/>
+
+### 🧠 AI & DATA
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,numpy&theme=dark&perline=6"/>
+
+### 🛡️ SECURITY & NETWORKING
+<img src="https://skillicons.dev/icons?i=linux,bash,wireshark,kali&theme=dark&perline=4"/>
+
+### 🛠️ INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql,postgres,mongodb&theme=dark&perline=7"/>
+
+</div>
+
+> **Note:** These icons represent technologies in my learning toolkit. My actual proficiency varies by technology.
+
+### 🌠 The Skill Galaxy
+
+Color = how comfortable I am: 🟢 comfortable · 🟡 building · 🔵 exploring. **TODO:** recolor each node honestly with `class NodeName green/yellow/blue`.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0b0b2a','primaryTextColor':'#e6faff','lineColor':'#8a2be2','clusterBkg':'#070718','clusterBorder':'#4b0082','fontFamily':'monospace'}}}%%
+flowchart TB
+    CORE(("⚡ VANSH"))
+
+    subgraph LANG[" 🐍 LANGUAGES "]
+        Py["Python"]
+        Ja["Java"]
+        JS["JavaScript"]
+        CC["C / C++"]
+        Da["Dart"]
+    end
+    subgraph WEB[" 🌐 WEB "]
+        Fl["Flask"]
+        FA["FastAPI"]
+        Re["React"]
+        HC["HTML / CSS"]
+    end
+    subgraph MOB[" 📱 MOBILE "]
+        Fu["Flutter"]
+    end
+    subgraph AI[" 🧠 AI / ML "]
+        SK["scikit-learn"]
+        PD["pandas / NumPy"]
+        NL["NLP / RAG"]
+        TF["TensorFlow / PyTorch"]
+    end
+    subgraph SEC[" 🛡️ SECURITY "]
+        Li["Linux"]
+        Ne["Networking basics"]
+        SA["Security analytics"]
+    end
+    subgraph TOOL[" 🛠️ TOOLS "]
+        Gi["Git / GitHub"]
+        Do["Docker"]
+        VS["VS Code"]
+        DB["Postgres / MySQL"]
+    end
+
+    CORE --> LANG & WEB & MOB & AI & SEC & TOOL
+
+    classDef green fill:#053b2a,stroke:#00ffb3,color:#d6fff1;
+    classDef yellow fill:#3b3205,stroke:#ffd700,color:#fff6c2;
+    classDef blue fill:#07263b,stroke:#00d4ff,color:#d6f6ff;
+    class Py,Gi,VS green;
+    class Ja,JS,CC,Da,Fl,FA,Re,HC,Fu,Do,SK,PD yellow;
+    class NL,TF,Li,Ne,SA,DB blue;
+    style CORE fill:#2a0a4a,stroke:#ff00ff,color:#fff,stroke-width:3px
+```
+
+### 🧱 The Full Stack in One Picture
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff'}}}%%
+block-beta
+  columns 4
+  UI["🖥️ Frontend: React · Flutter · HTML/CSS"]:4
+  space:4
+  API["⚙️ Flask"] API2["⚡ FastAPI"] AUTH["🛡️ Auth and Validation"] LOG["📈 Logging"]
+  space:4
+  ML["🧠 scikit-learn"] NLP["💬 NLP / RAG"] DB["🗄️ Postgres / MySQL"] CACHE["📦 Files and Storage"]
+  space:4
+  OPS["🐳 Docker · Git · GitHub Actions · Linux"]:4
+  style UI fill:#2a0a4a,stroke:#ff00ff,color:#fff
+  style OPS fill:#0b2a3a,stroke:#00f5ff,color:#fff
+```
+
+### 🔗 How Skills Feed Projects
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+sankey-beta
+Python,CyberSentinel AI,3
+Python,ResumeCheck AI,3
+Python,Fraud Detection AI,3
+Python,CloudMisconfig AI,3
+Python,SupportOps AI,2
+Python,JeevanSetu,2
+Flask,CyberSentinel AI,2
+NLP,ResumeCheck AI,3
+NLP,SupportOps AI,2
+scikit-learn,Fraud Detection AI,3
+Flutter,JeevanSetu,4
+Cloud Security,CloudMisconfig AI,2
+```
+
+---
+
+# 🛸 `04 // PROJECTS FROM THE DIGITAL FRONTIER`
 
 <div align="center">
 
@@ -231,237 +360,470 @@ mindmap
 
 </div>
 
-<div align="center">
+### 🌍 My Project Solar System
 
-| Project | Domain | Stack | Status |
-|:--|:--|:--|:--:|
-| 🛡️ CyberSentinel AI | AI Security | Python · Flask | 🧪 Concept / Prototype |
-| 🧠 ResumeCheck AI | NLP / Career Tech | Python · NLP | 🧪 Concept / Prototype |
-| 🎧 SupportOps AI | Automation | Python · APIs · NLP | 🧪 Concept / Prototype |
-| 🚨 JeevanSetu | Disaster Response | Flutter · Python | 🧪 Concept / Prototype |
-| 💳 Fraud Detection AI | Machine Learning | Python · scikit-learn | 🧪 Concept / Prototype |
-| ☁️ CloudMisconfig AI | Cloud Security | Python · APIs | 🧪 Concept / Prototype |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#8a2be2','clusterBkg':'#070718','clusterBorder':'#4b0082','fontFamily':'monospace'}}}%%
+flowchart LR
+    SUN(("☀️ VANSH LAB"))
 
-<sub>**TODO:** update the Status column to ✅ Complete / 🚧 In Progress / 🧪 Prototype per project, and link each to its repo.</sub>
+    subgraph DONE[" 🏁 RESUME PROJECTS "]
+        P1["💳 Credit-Scoring<br/>Risk Assessment"]
+        P2["🎓 EduPredict-AI"]
+        P3["🛒 AI-Enhanced<br/>E-commerce Platform"]
+        P4["🚨 Jeevan Setu AI<br/>Flutter"]
+        P5["🇮🇳 Smart India<br/>Hackathon"]
+    end
+    subgraph LAB[" 🧪 CONCEPT LAB "]
+        C1["🛡️ CyberSentinel AI"]
+        C2["🧠 ResumeCheck AI"]
+        C3["🎧 SupportOps AI"]
+        C4["💳 Fraud Detection AI"]
+        C5["☁️ CloudMisconfig AI"]
+    end
 
-</div>
+    SUN ==> DONE
+    SUN -.-> LAB
+    P4 -. "evolves into" .-> C6["🚨 JeevanSetu<br/>case study"]
+    P1 -. "inspires" .-> C4
 
-<br/>
+    classDef real fill:#053b2a,stroke:#00ffb3,color:#d6fff1;
+    classDef idea fill:#3b3205,stroke:#ffd700,color:#fff6c2;
+    class P1,P2,P3,P4,P5 real;
+    class C1,C2,C3,C4,C5,C6 idea;
+    style SUN fill:#2a0a4a,stroke:#ff00ff,color:#fff,stroke-width:3px
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>**TODO:** link each project to its repo. Green = resume projects, yellow = concepts. Move a node to green as you ship it.</sub>
 
-## 🛡️ CyberSentinel AI
+### 🎴 Project Mission Cards
 
-<img src="https://img.shields.io/badge/AI-SECURITY-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/PYTHON-FLASK-00E5FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
+Each card reads **Problem → Idea → Features → Stack → Status**.
 
-**Mission:** Explore intelligent security monitoring and threat analysis.
+#### 🛡️ CyberSentinel AI
 
-**Problem:** Security teams face large volumes of events and alerts, making it hard to spot what matters.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#8a2be2','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Too many security alerts,<br/>hard to spot what matters"] --> I["💡 IDEA<br/>Intelligent monitoring<br/>and threat analysis"]
+    I --> F["✨ FEATURES"]
+    F --> F1["Event analysis"]
+    F --> F2["Suspicious activity insights"]
+    F --> F3["Dashboards"]
+    F --> F4["Automated reports"]
+    I --> S["🧰 Python · Flask<br/>Security analytics"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
-**Potential features**
+#### 🧠 ResumeCheck AI
 
-* Security-event analysis
-* Suspicious activity insights
-* Monitoring dashboards
-* Automated security reports
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff00ff','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Candidates don't know<br/>why a resume misses a role"] --> I["💡 IDEA<br/>Compare resume<br/>with job description"]
+    I --> F["✨ FEATURES"]
+    F --> F1["Text extraction"]
+    F --> F2["JD comparison"]
+    F --> F3["Skill-gap analysis"]
+    F --> F4["Improvement tips"]
+    I --> S["🧰 Python · NLP<br/>Document processing"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
-**Technology direction:** Python · Flask · Security Analytics
+#### 🎧 SupportOps AI
 
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Support queues grow faster<br/>than teams can triage"] --> I["💡 IDEA<br/>Smarter support workflows"]
+    I --> F["✨ FEATURES"]
+    F --> F1["Ticket categorization"]
+    F --> F2["Priority suggestions"]
+    F --> F3["Troubleshooting steps"]
+    F --> F4["SLA-risk flags"]
+    I --> S["🧰 Python · APIs<br/>NLP · Automation"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
-</td>
-<td width="50%" valign="top">
+#### 🚨 JeevanSetu
 
-## 🧠 ResumeCheck AI
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff4500','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Networks fail and info is<br/>scattered during disasters"] --> I["💡 IDEA<br/>Offline-first coordination"]
+    I --> F["✨ FEATURES"]
+    F --> F1["One-tap SOS"]
+    F --> F2["Rescue coordination"]
+    F --> F3["Shelter info"]
+    F --> F4["Offline mode"]
+    I --> S["🧰 Flutter · Python<br/>Data systems"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
-<img src="https://img.shields.io/badge/AI-NLP-FF00FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/CAREER-TECH-00E5FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
+#### 💳 Fraud Detection AI
 
-**Mission:** Help candidates understand how their resumes match job descriptions.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#8a2be2','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Fraud is rare, so naive<br/>models look accurate"] --> I["💡 IDEA<br/>Detect rare fraud properly"]
+    I --> F["✨ EXPLORING"]
+    F --> F1["Class imbalance"]
+    F --> F2["Feature engineering"]
+    F --> F3["Model evaluation"]
+    F --> F4["Precision and recall"]
+    I --> S["🧰 Python · pandas<br/>scikit-learn"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
-**Problem:** Candidates rarely know why a resume is or isn't a fit for a role.
+#### ☁️ CloudMisconfig AI
 
-**Potential features**
-
-* Resume text extraction
-* Job-description comparison
-* Skill-gap analysis
-* Improvement recommendations
-
-**Technology direction:** Python · NLP · Document Processing
-
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🎧 SupportOps AI
-
-<img src="https://img.shields.io/badge/AI-SUPPORT-00FFB3?style=flat-square"/>
-<img src="https://img.shields.io/badge/AUTOMATION-OPS-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
-
-**Mission:** Explore smarter customer-support workflows.
-
-**Problem:** Support queues grow faster than teams can triage them.
-
-**Potential features**
-
-* Ticket categorization
-* Priority recommendations
-* Suggested troubleshooting steps
-* SLA-risk indicators
-
-**Technology direction:** Python · APIs · NLP · Automation
-
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-## 🚨 JeevanSetu
-
-<img src="https://img.shields.io/badge/MOBILE-FLUTTER-00E5FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/IMPACT-DISASTER_RESPONSE-FF4500?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
-
-**Mission:** Explore digital coordination for disaster response.
-
-**Problem:** During disasters, connectivity is unreliable and information is scattered.
-
-**Potential features**
-
-* Emergency SOS workflows
-* Rescue coordination
-* Shelter information
-* Offline-first mobile experience
-
-**Technology direction:** Flutter · Python · Data Systems
-
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 💳 Fraud Detection AI
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-CLASSIFICATION-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
-
-**Mission:** Investigate machine-learning techniques for identifying potentially fraudulent transactions.
-
-**Problem:** Fraud is rare, so naive models look accurate while missing real cases.
-
-**Exploration areas**
-
-* Class imbalance
-* Feature engineering
-* Model evaluation
-* Precision and recall
-
-**Technology direction:** Python · pandas · scikit-learn
-
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-## ☁️ CloudMisconfig AI
-
-<img src="https://img.shields.io/badge/CLOUD-SECURITY-00E5FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/STATUS-CONCEPT-FFD700?style=flat-square"/>
-
-**Mission:** Explore ways to detect and explain potentially risky cloud configurations.
-
-**Problem:** Small configuration mistakes often cause the largest cloud security incidents.
-
-**Potential features**
-
-* Configuration checks
-* Risk classification
-* Findings dashboard
-* Remediation guidance
-
-**Technology direction:** Python · Cloud Security · APIs
-
-[**Explore my repositories →**](https://github.com/VanshBakshi?tab=repositories)
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00d4ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["⚠️ PROBLEM<br/>Small config mistakes cause<br/>big cloud incidents"] --> I["💡 IDEA<br/>Detect and explain<br/>risky configurations"]
+    I --> F["✨ FEATURES"]
+    F --> F1["Config checks"]
+    F --> F2["Risk classification"]
+    F --> F3["Findings dashboard"]
+    F --> F4["Fix guidance"]
+    I --> S["🧰 Python · Cloud security<br/>APIs"]
+    S --> T(["🧪 CONCEPT"])
+    style P fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style T fill:#3b3205,stroke:#ffd700,color:#fff
+```
 
 <div align="center">
 
 ### ⚠️ PROJECT TRANSPARENCY
 
-These cards describe project concepts and areas of development, not a claim that every feature is complete. Visit my repositories to see the code, implementation status, and available documentation.
+Concept cards describe ideas and areas of development, not a claim that every feature is complete. Visit my [repositories](https://github.com/VanshBakshi?tab=repositories) for code, status, and docs.
 
 </div>
 
-### 🧱 Project Standard (my definition of "done")
+### 🧭 Project Portfolio Map
 
-```yaml
-definition_of_done:
-  code:
-    - readable, modular, typed where possible
-    - linted and formatted
-  quality:
-    - unit tests for core logic
-    - README with setup, usage, screenshots
-  delivery:
-    - reproducible install (requirements / Docker)
-    - tagged release and changelog
-  security:
-    - no secrets in the repo
-    - dependencies reviewed
+```mermaid
+%%{init: {'theme':'dark'}}%%
+quadrantChart
+    title Project Portfolio (self-assessed)
+    x-axis Early Concept --> Close to Shipping
+    y-axis Lower Impact --> Higher Impact
+    quadrant-1 Double Down
+    quadrant-2 Make Real Soon
+    quadrant-3 Park for Now
+    quadrant-4 Polish and Ship
+    JeevanSetu: [0.45, 0.92]
+    CyberSentinel AI: [0.30, 0.75]
+    CloudMisconfig AI: [0.40, 0.70]
+    Fraud Detection AI: [0.60, 0.65]
+    ResumeCheck AI: [0.55, 0.55]
+    SupportOps AI: [0.25, 0.40]
+```
+
+### 🧱 My Definition of "Done"
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    S(["📦 PROJECT"]) --> C["💻 CODE<br/>readable · modular · typed · linted"]
+    C --> Q["🧪 QUALITY<br/>unit tests · README · screenshots"]
+    Q --> D["🚚 DELIVERY<br/>requirements or Docker · tagged release"]
+    D --> X["🔐 SECURITY<br/>no secrets · reviewed dependencies"]
+    X --> DONE(["✅ DONE"])
+    style DONE fill:#053b2a,stroke:#00ffb3,color:#fff,stroke-width:3px
 ```
 
 ---
 
-# 🏛️ `04 // SYSTEM ARCHITECTURE THINKING`
+# 🏛️ `05 // SYSTEM ARCHITECTURE LAB`
 
-How I approach designing an AI-powered application end to end:
+### 🌐 End-to-End AI Application
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','clusterBkg':'#0b0b2a','clusterBorder':'#8a2be2'}}}%%
 flowchart LR
-    U[👤 User] --> FE[🖥️ Frontend<br/>React / Flutter]
-    FE --> API[⚙️ API Layer<br/>Flask / FastAPI]
-    API --> SVC[🧩 Service Logic]
-    SVC --> ML[🧠 ML / NLP Models]
-    SVC --> DB[(🗄️ Database<br/>MySQL / Postgres)]
-    ML --> SVC
-    SVC --> MON[📈 Logging & Monitoring]
-    API --> SEC[🛡️ Auth & Validation]
+    U["👤 User"] --> FE
+    subgraph CLIENT[" 🖥️ CLIENT "]
+        FE["React / Flutter"]
+    end
+    subgraph BACKEND[" ⚙️ BACKEND "]
+        API["API Layer<br/>Flask / FastAPI"] --> SEC["🛡️ Auth and Validation"] --> SVC["🧩 Service Logic"]
+    end
+    subgraph INTEL[" 🧠 INTELLIGENCE "]
+        ML["ML Models"]
+        NLP["NLP / RAG"]
+    end
+    subgraph DATA[" 🗄️ DATA "]
+        DB[("Postgres / MySQL")]
+        VEC[("Vector Store")]
+    end
+    FE --> API
+    SVC --> ML
+    SVC --> NLP
+    NLP --> VEC
+    SVC --> DB
+    SVC --> MON["📈 Logging and Monitoring"]
 ```
 
 ### 🔄 My Development Lifecycle
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff'}}}%%
 flowchart TD
-    A[💡 Idea] --> B[🔍 Research the problem]
-    B --> C[📐 Design & plan]
-    C --> D[⚙️ Build a prototype]
-    D --> E[🧪 Test & evaluate]
-    E --> F{Good enough?}
-    F -- No --> G[🔧 Improve]
+    A["💡 Idea"] --> B["🔍 Research the problem"]
+    B --> C["📐 Design and plan"]
+    C --> D["⚙️ Build a prototype"]
+    D --> E["🧪 Test and evaluate"]
+    E --> F{"Good enough?"}
+    F -- No --> G["🔧 Improve"]
     G --> D
-    F -- Yes --> H[🚀 Deploy & document]
-    H --> I[📣 Collect feedback]
+    F -- Yes --> H["🚀 Deploy and document"]
+    H --> I["📣 Collect feedback"]
     I --> B
 ```
 
-### 🧠 Example: Minimal ML Evaluation Pipeline
+### 🧩 A Request's Journey
 
-A small illustration of the kind of work behind **Fraud Detection AI** (class imbalance + precision/recall):
+```mermaid
+%%{init: {'theme':'dark'}}%%
+sequenceDiagram
+    autonumber
+    actor U as 👤 User
+    participant FE as 🖥️ Frontend
+    participant API as ⚙️ API
+    participant NLP as 🧠 NLP Engine
+    participant DB as 🗄️ Database
+    U->>FE: Upload resume + job description
+    FE->>API: POST /analyze (validated, size-limited)
+    API->>API: Sanitize input, rate limit
+    API->>NLP: Extract text, compute similarity
+    NLP-->>API: Score + matched / missing skills
+    API->>DB: Save report (minimal data)
+    API-->>FE: 200 OK + MatchReport
+    FE-->>U: Score, skill gaps, tips
+```
+
+### 🏗️ Class Design: CloudMisconfig AI
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+classDiagram
+    class Severity {
+        <<enumeration>>
+        LOW
+        MEDIUM
+        HIGH
+        CRITICAL
+    }
+    class Rule {
+        +str id
+        +Severity severity
+        +str title
+        +str remediation
+        +check(resource) bool
+    }
+    class Finding {
+        +str rule_id
+        +Severity severity
+        +str resource
+        +str title
+        +str remediation
+    }
+    class Scanner {
+        +list~Rule~ rules
+        +scan(resources) list~Finding~
+    }
+    Scanner "1" o-- "many" Rule : uses
+    Scanner ..> Finding : produces
+    Rule --> Severity
+    Finding --> Severity
+```
+
+### 🗃️ Data Model: JeevanSetu
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+erDiagram
+    CITIZEN ||--o{ SOS_REQUEST : raises
+    SOS_REQUEST ||--o| ASSIGNMENT : "is handled via"
+    RESPONDER ||--o{ ASSIGNMENT : takes
+    SHELTER ||--o{ SOS_REQUEST : "can host"
+    SOS_REQUEST {
+        uuid id PK
+        float lat
+        float lng
+        string note
+        string status
+        datetime created_at
+    }
+    RESPONDER {
+        int id PK
+        string name
+        string team
+    }
+    ASSIGNMENT {
+        int id PK
+        uuid sos_id FK
+        int responder_id FK
+        datetime assigned_at
+    }
+    SHELTER {
+        int id PK
+        string name
+        int capacity
+        float lat
+        float lng
+    }
+    CITIZEN {
+        int id PK
+        string display_name
+    }
+```
+
+### 🚦 SOS Lifecycle
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+stateDiagram-v2
+    direction LR
+    [*] --> Queued: user taps SOS
+    Queued --> Syncing: network available
+    Syncing --> Queued: failure / backoff
+    Syncing --> Received: 202 Accepted
+    Received --> Assigned: responder picks up
+    Assigned --> Resolved: help delivered
+    Resolved --> [*]
+```
+
+### 🔀 Choosing a Backend (decision tree)
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ffd700','lineColor':'#ff00ff'}}}%%
+flowchart TD
+    Q{"What am I building?"} -->|"Quick prototype / small API"| FL["🌶️ Flask"]
+    Q -->|"Typed, async, auto docs"| FA["⚡ FastAPI"]
+    Q -->|"Heavy ML or data work"| PY["🐍 Python service + FastAPI"]
+    Q -->|"Mobile app backend"| MB{"Need realtime?"}
+    MB -->|Yes| FB["🔥 Firebase or WebSockets"]
+    MB -->|No| FA
+    FL --> DB{"Data shape?"}
+    FA --> DB
+    PY --> DB
+    DB -->|Relational| PG[("🐘 Postgres")]
+    DB -->|Flexible documents| MG[("🍃 MongoDB")]
+```
+
+---
+
+# 🧠 `06 // AI & ML LAB`
+
+### 🔁 Machine-Learning Lifecycle
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff'}}}%%
+flowchart LR
+    A[("📥 Raw Data")] --> B["🧹 Clean and validate"]
+    B --> C["🧪 Feature engineering"]
+    C --> D["✂️ Stratified split"]
+    D --> E["🏋️ Train baseline"]
+    E --> F["📏 Evaluate<br/>precision · recall · F1"]
+    F --> G{"Meets target?"}
+    G -- No --> H["🔧 Tune / rebalance"]
+    H --> E
+    G -- Yes --> I["📦 Package model"]
+    I --> J["🚀 Serve via API"]
+    J --> K["📈 Monitor drift"]
+    K -.retrain.-> A
+```
+
+### 🔎 RAG Pipeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff00ff','lineColor':'#00f5ff'}}}%%
+flowchart TB
+    subgraph INGEST[" 📚 INGESTION "]
+        D1["Documents"] --> D2["Chunk text"] --> D3["Create embeddings"] --> D4[("Vector DB")]
+    end
+    subgraph QUERY[" 💬 QUERY TIME "]
+        Q1["User question"] --> Q2["Embed question"] --> Q3["Similarity search"]
+        Q3 --> Q4["Top-k chunks"]
+        Q4 --> Q5["Build prompt<br/>question + context"]
+        Q5 --> Q6["LLM"] --> Q7["Grounded answer + sources"]
+    end
+    D4 --> Q3
+```
+
+### 💬 NLP Text Pipeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff'}}}%%
+flowchart LR
+    T["📄 Raw text"] --> N["🧼 Normalize<br/>lowercase · strip noise"]
+    N --> K["✂️ Tokenize"]
+    K --> S["🚫 Stop-word removal"]
+    S --> V["🔢 Vectorize<br/>TF-IDF / embeddings"]
+    V --> M{"Task?"}
+    M -->|Similarity| SIM["📐 Cosine similarity"]
+    M -->|Classification| CLS["🏷️ Classifier"]
+    M -->|Generation| GEN["✍️ LLM"]
+```
+
+### 🧭 Which Model Should I Try First?
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ffd700','lineColor':'#ff00ff'}}}%%
+flowchart TD
+    S{"Do I have labels?"} -->|Yes| L{"Predict a..."}
+    S -->|No| U{"Goal?"}
+    L -->|Category| C["🌲 Logistic Regression → Random Forest"]
+    L -->|Number| R["📈 Linear Regression → Gradient Boosting"]
+    U -->|"Find groups"| KM["🔵 K-Means"]
+    U -->|"Spot weird data"| IF["🚩 Isolation Forest"]
+    U -->|"Reduce dimensions"| PC["🧊 PCA"]
+    C --> E["📏 Always check precision / recall"]
+    R --> E2["📏 Always check MAE / RMSE"]
+```
+
+### 💳 Why Accuracy Lies
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData
+    title Typical Fraud Dataset (illustrative)
+    "Legitimate transactions" : 99
+    "Fraudulent transactions" : 1
+```
+
+> A model that always says "not fraud" scores **99% accuracy** and catches **0%** of fraud. That is why I judge models by precision, recall, and F1.
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+    subgraph CM[" 🧮 CONFUSION MATRIX, AS A FLOW "]
+        direction LR
+        A["Real fraud"] -->|"model says fraud"| TP["✅ True Positive"]
+        A -->|"model says safe"| FN["❌ False Negative<br/>missed fraud"]
+        B["Real safe"] -->|"model says fraud"| FP["⚠️ False Positive<br/>annoyed customer"]
+        B -->|"model says safe"| TN["✅ True Negative"]
+    end
+    TP & FP --> PR["Precision = TP / (TP + FP)"]
+    TP & FN --> RC["Recall = TP / (TP + FN)"]
+    style FN fill:#3b0a0a,stroke:#ff4b4b,color:#fff
+    style TP fill:#053b2a,stroke:#00ffb3,color:#fff
+    style TN fill:#053b2a,stroke:#00ffb3,color:#fff
+```
+
+### 🧠 Example: Minimal ML Evaluation Pipeline
 
 ```python
 import pandas as pd
@@ -473,11 +835,9 @@ from sklearn.model_selection import train_test_split
 def evaluate(df: pd.DataFrame, target: str = "is_fraud") -> str:
     """Train a baseline model and report precision/recall per class."""
     X, y = df.drop(columns=[target]), df[target]
-
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=0.2, stratify=y, random_state=42
     )
-
     model = RandomForestClassifier(
         n_estimators=200,
         class_weight="balanced",  # handle class imbalance
@@ -485,20 +845,106 @@ def evaluate(df: pd.DataFrame, target: str = "is_fraud") -> str:
         random_state=42,
     )
     model.fit(X_train, y_train)
-
     return classification_report(y_test, model.predict(X_test))
 ```
 
-> Accuracy alone is misleading on imbalanced data, so I focus on **precision, recall, and F1** instead.
+---
+
+# 🛡️ `07 // SECURITY LAB`
+
+### 🧅 Defense in Depth
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff4b4b','lineColor':'#00f5ff'}}}%%
+flowchart LR
+    R["🌍 Request"] --> L1["🔒 TLS / HTTPS"]
+    L1 --> L2["🚦 Rate limiting"]
+    L2 --> L3["🧾 Input validation"]
+    L3 --> L4["🔑 Authentication"]
+    L4 --> L5["🛂 Authorization<br/>least privilege"]
+    L5 --> L6["⚙️ Business logic"]
+    L6 --> L7[("🗄️ Parameterised queries")]
+    L6 --> L8["📜 Audit logging"]
+```
+
+### 🕵️ Threat Modeling Loop (STRIDE-inspired)
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A["🎯 Define assets"] --> B["🗺️ Map data flows"]
+    B --> C["⚠️ Identify threats"]
+    C --> S1["Spoofing"] & S2["Tampering"] & S3["Repudiation"] & S4["Info disclosure"] & S5["Denial of service"] & S6["Privilege escalation"]
+    S1 & S2 & S3 & S4 & S5 & S6 --> D["🧮 Rate risk"]
+    D --> E["🛠️ Apply mitigations"]
+    E --> F["✅ Verify and test"]
+    F --> A
+```
+
+### 🚨 Incident Response
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart LR
+    A["🔔 Alert"] --> B{"Real threat?"}
+    B -- No --> C["📝 Tune detection"]
+    B -- Yes --> D["🧯 Contain"]
+    D --> E["🔍 Investigate"]
+    E --> F["🩹 Eradicate and recover"]
+    F --> G["📚 Post-mortem"]
+    G --> C
+```
+
+### ⚔️ Threat vs. Defense Map
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','lineColor':'#8a2be2','fontFamily':'monospace'}}}%%
+flowchart LR
+    T1["💉 SQL injection"] ==> D1["🛡️ Parameterised queries"]
+    T2["🪪 Stolen credentials"] ==> D2["🛡️ Hashing + MFA + rate limits"]
+    T3["📂 Public bucket"] ==> D3["🛡️ Private by default + scans"]
+    T4["🧨 Oversized payloads"] ==> D4["🛡️ Size limits + validation"]
+    T5["🔓 Leaked secrets"] ==> D5["🛡️ Env vars + secret scanning"]
+    T6["📦 Vulnerable dependency"] ==> D6["🛡️ pip-audit + Dependabot"]
+    classDef threat fill:#3b0a0a,stroke:#ff4b4b,color:#fff;
+    classDef def fill:#053b2a,stroke:#00ffb3,color:#fff;
+    class T1,T2,T3,T4,T5,T6 threat;
+    class D1,D2,D3,D4,D5,D6 def;
+```
+
+### 🔐 My Security Principles
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff00ff','lineColor':'#00f5ff'}}}%%
+mindmap
+  root((Secure by Default))
+    Least privilege
+      Minimal token scopes
+      Scoped roles
+    Defense in depth
+      Validate
+      Authenticate
+      Authorize
+      Log
+    Fail securely
+      Safe defaults
+      Generic client errors
+    Never trust input
+      Type checks
+      Size limits
+      Parameterised queries
+    Keep it patched
+      Pin versions
+      Update regularly
+```
 
 ---
 
-# 📊 `05 // DEVELOPER TELEMETRY`
+# 📊 `08 // DEVELOPER TELEMETRY`
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VanshBakshi&show_icons=true&hide_border=true&bg_color=070719&title_color=00FFFF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github"/>
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VanshBakshi&layout=compact&hide_border=true&bg_color=070719&title_color=FF00FF&text_color=FFFFFF&langs_count=8"/>
 
 <br/><br/>
@@ -517,7 +963,7 @@ def evaluate(df: pd.DataFrame, target: str = "is_fraud") -> str:
 
 ---
 
-# 🐍 `06 // THE CONTRIBUTION MATRIX`
+# 🐍 `09 // THE CONTRIBUTION MATRIX`
 
 <div align="center">
 
@@ -525,7 +971,7 @@ def evaluate(df: pd.DataFrame, target: str = "is_fraud") -> str:
 
 **Every contribution is another step forward.**
 
-<sub>This animation requires a GitHub Actions workflow to generate and publish the SVG — see the setup below.</sub>
+<sub>This animation needs a GitHub Actions workflow to generate the SVG. See below.</sub>
 
 </div>
 
@@ -568,33 +1014,17 @@ jobs:
 
 ---
 
-# 🧪 `07 // THE ENGINEERING MINDSET`
+# 🧪 `10 // THE ENGINEERING MINDSET`
 
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 🔍 ANALYZE
-
-Understand the problem before choosing the solution.
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ ENGINEER
-
-Build, test, improve, and document the solution.
-
-</td>
-<td width="33%" align="center">
-
-### 🚀 EVOLVE
-
-Learn from feedback and make the next version better.
-
-</td>
-</tr>
-</table>
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["🔍 ANALYZE<br/>Understand the problem<br/>before choosing the solution"] ==> B["⚙️ ENGINEER<br/>Build · test · improve · document"] ==> C["🚀 EVOLVE<br/>Learn from feedback,<br/>make v2 better"]
+    C -.-> A
+    style A fill:#2a0a4a,stroke:#ff00ff,color:#fff
+    style B fill:#07263b,stroke:#00d4ff,color:#fff
+    style C fill:#053b2a,stroke:#00ffb3,color:#fff
+```
 
 <div align="center">
 
@@ -613,52 +1043,91 @@ Learn from feedback and make the next version better.
 
 </div>
 
-### 📜 Engineering Principles
+### 📜 Five Engineering Principles
 
-1. **Clarity over cleverness** — code is read far more often than it is written.
-2. **Small, working increments** — a running prototype beats a perfect plan.
-3. **Measure, don't guess** — evaluate models and performance with data.
-4. **Secure by default** — validate input, protect secrets, least privilege.
-5. **Document as you go** — future me (and collaborators) will say thanks.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#8a2be2','lineColor':'#00f5ff'}}}%%
+flowchart TB
+    P(["🧠 PRINCIPLES"])
+    P --> A["1️⃣ Clarity over cleverness<br/>code is read more than written"]
+    P --> B["2️⃣ Small working increments<br/>a running prototype beats a perfect plan"]
+    P --> C["3️⃣ Measure, don't guess<br/>evaluate with data"]
+    P --> D["4️⃣ Secure by default<br/>validate · protect secrets · least privilege"]
+    P --> E["5️⃣ Document as you go<br/>future me will say thanks"]
+```
+
+### 🧭 My Debugging Decision Tree
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+flowchart TD
+    A["🐞 Something broke"] --> B{"Can I reproduce it?"}
+    B -- No --> C["📝 Add logging, gather info"]
+    C --> B
+    B -- Yes --> D["🔬 Isolate the smallest failing case"]
+    D --> E{"Read the error carefully.<br/>Obvious cause?"}
+    E -- Yes --> F["🔧 Fix it"]
+    E -- No --> G["🧠 Form a hypothesis"]
+    G --> H["🧪 Change one thing at a time"]
+    H --> I{"Fixed?"}
+    I -- No --> G
+    I -- Yes --> F
+    F --> J["✅ Add a test so it never returns"]
+```
+
+### ⚖️ Where My Time Goes (illustrative)
+
+```mermaid
+%%{init: {'theme':'dark'}}%%
+pie showData
+    title Weekly Focus (TODO: adjust)
+    "Building projects" : 35
+    "Learning new tech" : 25
+    "DSA practice" : 15
+    "Teaching and mentoring" : 15
+    "Documentation" : 10
+```
 
 ---
 
-# 🗺️ `08 // ROADMAP 2026`
-
-<div align="center">
+# 🗺️ `11 // ROADMAP 2026`
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 gantt
-    title Vansh Bakshi — 2026 Growth Roadmap
+    title Vansh Bakshi: 2026 Growth Roadmap
     dateFormat  YYYY-MM-DD
     axisFormat  %b
     section AI / ML
     Strengthen ML fundamentals        :a1, 2026-01-01, 90d
-    Build & document an ML project    :a2, after a1, 75d
+    Build and document an ML project  :a2, after a1, 75d
     section Full Stack
     Polish a Flask/FastAPI project    :b1, 2026-02-01, 90d
     Deploy a full-stack app           :b2, after b1, 60d
     section Mobile
     Flutter offline-first prototype   :c1, 2026-04-01, 100d
     section Security
-    Cloud & app security practice     :d1, 2026-05-01, 120d
+    Cloud and app security practice   :d1, 2026-05-01, 120d
     section Community
     Open-source contributions         :e1, 2026-03-01, 270d
 ```
 
-<sub>TODO: adjust dates and goals to match your real plan.</sub>
+<sub>TODO: adjust dates and goals to your real plan.</sub>
 
-</div>
+### 🎯 Mission Control
 
-| MISSION | OBJECTIVE |
-|:--|:--|
-| 🧠 AI Engineering | Build useful AI/ML applications |
-| 🌐 Full Stack | Develop complete web experiences |
-| 📱 Mobile Systems | Build cross-platform applications |
-| 🛡️ Cybersecurity | Explore security analysis and automation |
-| 🧩 Problem Solving | Strengthen algorithms and coding skills |
-| 🏗️ Real-World Projects | Ship documented, working software |
-| 🤝 Open Source | Learn through collaboration and contributions |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    G(("🎯 2026")) --> M1["🧠 AI Engineering"] --> O1["Build useful AI/ML apps"]
+    G --> M2["🌐 Full Stack"] --> O2["Develop complete web experiences"]
+    G --> M3["📱 Mobile"] --> O3["Cross-platform apps"]
+    G --> M4["🛡️ Cybersecurity"] --> O4["Security analysis and automation"]
+    G --> M5["🧩 Problem Solving"] --> O5["Algorithms and coding skills"]
+    G --> M6["🏗️ Real Projects"] --> O6["Ship documented, working software"]
+    G --> M7["🤝 Open Source"] --> O7["Learn through contributions"]
+    style G fill:#2a0a4a,stroke:#ff00ff,color:#fff,stroke-width:3px
+```
 
 ### ✅ Checklist
 
@@ -671,22 +1140,62 @@ gantt
 
 ---
 
-# 📚 `09 // LEARNING LOG`
+# 📚 `12 // LEARNING LAB`
 
-<div align="center">
+### 🌳 What I'm Studying
 
-| Domain | Topic | Resource / Method | Progress |
-|:--|:--|:--|:--:|
-| 🐍 Python | Clean code, typing, testing | Practice projects | ▰▰▰▰▱ |
-| 🧠 ML | Evaluation, imbalance, feature engineering | Notebooks | ▰▰▰▱▱ |
-| 🌐 Web | REST design, auth, deployment | Flask / FastAPI apps | ▰▰▰▱▱ |
-| 📱 Mobile | State management, offline storage | Flutter prototypes | ▰▰▱▱▱ |
-| 🛡️ Security | OWASP Top 10, cloud misconfiguration | Labs & reading | ▰▰▱▱▱ |
-| 🧮 DSA | Arrays, trees, graphs, DP | Daily practice | ▰▰▰▱▱ |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff'}}}%%
+mindmap
+  root((Learning Lab))
+    🐍 Python
+      Clean code
+      Typing
+      Testing
+    🧠 ML
+      Evaluation
+      Imbalance
+      Feature engineering
+    🌐 Web
+      REST design
+      Auth
+      Deployment
+    📱 Mobile
+      State management
+      Offline storage
+    🛡️ Security
+      OWASP Top 10
+      Cloud misconfiguration
+    🧮 DSA
+      Arrays
+      Trees
+      Graphs
+      DP
+```
 
-<sub>TODO: update the bars honestly as you progress.</sub>
+```mermaid
+%%{init: {'theme':'dark'}}%%
+xychart-beta
+    title "Learning Progress (self-assessed %, TODO: update)"
+    x-axis [Python, ML, Web, Mobile, Security, DSA]
+    y-axis "Progress" 0 --> 100
+    bar [80, 60, 60, 40, 40, 60]
+    line [80, 60, 60, 40, 40, 60]
+```
 
-</div>
+### 🔁 How I Learn Anything New
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff'}}}%%
+flowchart LR
+    A["📖 Read the fundamentals"] --> B["🧪 Build a tiny prototype"]
+    B --> C["💥 Break it, note what failed"]
+    C --> D["📝 Write it down"]
+    D --> E["🧑‍🏫 Explain it to someone"]
+    E --> F{"Can I explain it simply?"}
+    F -- No --> A
+    F -- Yes --> G(["🏅 Learned"])
+```
 
 ### 🧠 Daily Routine Algorithm
 
@@ -700,23 +1209,17 @@ def daily_routine(day: int) -> list[str]:
     return tasks
 ```
 
----
+### 🎯 Current Focus
 
-# 🎯 `10 // CURRENT FOCUS`
-
-<div align="center">
-
-| | |
-|:--:|:--|
-| 🔭 | Turning project concepts into **working, documented repositories** |
-| 🧠 | Deepening **machine-learning evaluation** skills |
-| 🌐 | Building a **deployable full-stack** application |
-| 🛡️ | Practising **secure coding** habits |
-| 🤝 | Finding **open-source** projects to contribute to |
-
-</div>
-
-### 🏷️ Collaboration Interests
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff00ff','lineColor':'#00f5ff'}}}%%
+flowchart TB
+    NOW(("🔭 NOW")) --> A["Turn concepts into working,<br/>documented repositories"]
+    NOW --> B["Deepen ML evaluation and RAG skills"]
+    NOW --> C["Build a deployable full-stack app"]
+    NOW --> D["Practise secure coding habits"]
+    NOW --> E["Find open-source projects to join"]
+```
 
 <div align="center">
 
@@ -726,13 +1229,7 @@ def daily_routine(day: int) -> list[str]:
 <img src="https://img.shields.io/badge/Mentorship-00FFB3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Internships-FFD700?style=for-the-badge&logoColor=black"/>
 
-</div>
-
----
-
-# 📡 `11 // LIVE DASHBOARD`
-
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/github/followers/VanshBakshi?style=for-the-badge&logo=github&color=8A2BE2&labelColor=070718"/>
 <img src="https://img.shields.io/github/stars/VanshBakshi?style=for-the-badge&logo=github&color=FF00FF&labelColor=070718"/>
@@ -743,15 +1240,11 @@ def daily_routine(day: int) -> list[str]:
 
 ### 🆕 Recently Active Repositories
 
-> This table is rewritten automatically by a scheduled GitHub Action (see `scripts/update_readme.py`). It always shows what I'm *actually* working on.
+> Rewritten automatically by a scheduled GitHub Action (see `scripts/update_readme.py`).
 
 <!-- REPOS:START -->
-| Repository | Language | Updated |
-|:--|:--|:--|
-| *Auto-generated after the first workflow run* | — | — |
+*Auto-generated after the first workflow run*
 <!-- REPOS:END -->
-
-### 🧭 Profile Summary Cards
 
 <div align="center">
 
@@ -760,11 +1253,7 @@ def daily_routine(day: int) -> list[str]:
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VanshBakshi&theme=radical"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VanshBakshi&theme=radical"/>
 
-</div>
-
-### 💬 Dev Wisdom
-
-<div align="center">
+<br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
@@ -772,12 +1261,12 @@ def daily_routine(day: int) -> list[str]:
 
 ---
 
-# 💻 `12 // CODE SHOWCASE`
+# 💻 `13 // CODE SHOWCASE`
 
 > **Honest note:** these are *illustrative, self-contained snippets* showing how I approach the problems behind my project ideas. They are not copied from a finished product.
 
 <details open>
-<summary><b>🧠 ResumeCheck AI — job-match scoring + skill-gap analysis (Python)</b></summary>
+<summary><b>🧠 ResumeCheck AI: job-match scoring + skill-gap analysis (Python)</b></summary>
 
 ```python
 from __future__ import annotations
@@ -803,8 +1292,7 @@ def _tokens(text: str) -> set[str]:
 
 
 def analyze(resume: str, job_description: str, skills: set[str]) -> MatchReport:
-    """Compare a resume to a job description using TF-IDF similarity
-    plus an explicit skill-gap check against a curated skills vocabulary."""
+    """TF-IDF similarity plus an explicit skill-gap check."""
     vec = TfidfVectorizer(stop_words="english", ngram_range=(1, 2))
     matrix = vec.fit_transform([resume, job_description])
     similarity = float(cosine_similarity(matrix[0], matrix[1])[0, 0])
@@ -822,7 +1310,7 @@ def analyze(resume: str, job_description: str, skills: set[str]) -> MatchReport:
 </details>
 
 <details>
-<summary><b>☁️ CloudMisconfig AI — explainable rule engine (Python)</b></summary>
+<summary><b>☁️ CloudMisconfig AI: explainable rule engine (Python)</b></summary>
 
 ```python
 from __future__ import annotations
@@ -894,7 +1382,7 @@ if __name__ == "__main__":
 </details>
 
 <details>
-<summary><b>🛡️ CyberSentinel AI — hardened Flask API with validation + rate limiting</b></summary>
+<summary><b>🛡️ CyberSentinel AI: hardened Flask API with validation + rate limiting</b></summary>
 
 ```python
 from __future__ import annotations
@@ -953,7 +1441,7 @@ if __name__ == "__main__":
 </details>
 
 <details>
-<summary><b>🚨 JeevanSetu — offline-first outbox pattern (Dart / Flutter)</b></summary>
+<summary><b>🚨 JeevanSetu: offline-first outbox pattern (Dart / Flutter)</b></summary>
 
 ```dart
 import 'dart:async';
@@ -1015,27 +1503,27 @@ class SosOutbox {
 
 ---
 
-# 🔬 `13 // CASE STUDY: JEEVANSETU`
+# 🔬 `14 // CASE STUDY: JEEVANSETU`
 
-*A design exercise showing how I break a hard, real-world problem down. Treat it as an architecture plan, not a shipped product.*
+*A design exercise showing how I break down a hard, real-world problem. Treat it as an architecture plan, not a shipped product.*
 
-### 🎯 Problem
+### 🎯 Problem → Requirements
 
-During floods, earthquakes or storms, networks degrade exactly when people need help most. Information about **who needs rescue, where shelters are, and which roads are safe** is scattered across calls, messages and social media.
-
-### 📋 Requirements
-
-| Type | Requirement |
-|:--|:--|
-| **Functional** | One-tap SOS with location; shelter directory; volunteer/responder dashboard |
-| **Reliability** | Works offline; syncs automatically; no duplicate SOS records |
-| **Performance** | Cold start < 2s on low-end Android; small data footprint |
-| **Privacy** | Collect minimum data; share location only with responders; encrypt in transit |
-| **Operability** | Simple deployment; clear logs; graceful degradation |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff4500','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    P["🌊 PROBLEM<br/>Floods, quakes, storms:<br/>networks fail exactly when<br/>people need help most"] --> R(["📋 REQUIREMENTS"])
+    R --> F["⚙️ Functional<br/>One-tap SOS with location<br/>Shelter directory<br/>Responder dashboard"]
+    R --> RL["🔁 Reliability<br/>Works offline<br/>Auto-sync<br/>No duplicate SOS"]
+    R --> PF["⚡ Performance<br/>Cold start under 2s<br/>on low-end Android"]
+    R --> PV["🔐 Privacy<br/>Minimum data<br/>Location only to responders<br/>Encrypted in transit"]
+    R --> OP["🛠️ Operability<br/>Simple deploy<br/>Clear logs<br/>Graceful degradation"]
+```
 
 ### 🔁 Core Flow
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 sequenceDiagram
     autonumber
     participant P as 📱 Citizen App
@@ -1043,7 +1531,6 @@ sequenceDiagram
     participant A as ⚙️ API Gateway
     participant D as 🗄️ Database
     participant R as 🚒 Responder Dashboard
-
     P->>O: Save SOS (UUID, GPS, note)
     O-->>P: Confirmed locally ✅
     loop until delivered
@@ -1061,25 +1548,73 @@ sequenceDiagram
     A-->>P: Status update (push / poll)
 ```
 
+### 🌐 Deployment View
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','clusterBkg':'#0b0b2a','clusterBorder':'#8a2be2'}}}%%
+flowchart TB
+    subgraph EDGE[" 📱 EDGE (low connectivity) "]
+        APP["Flutter App"] <--> LDB[("Local Store")]
+    end
+    subgraph CLOUD[" ☁️ CLOUD "]
+        LB["Load Balancer / HTTPS"] --> API1["API Instance 1"] & API2["API Instance 2"]
+        API1 & API2 --> PG[("Postgres")]
+    end
+    subgraph OPS[" 🚒 RESPONDERS "]
+        DASH["Web Dashboard"]
+    end
+    APP -- "sync when online" --> LB
+    PG --> DASH
+```
+
 ### ⚖️ Key Trade-offs
 
-| Decision | Chosen | Alternative | Why |
-|:--|:--|:--|:--|
-| Sync model | Outbox + idempotent API | Direct calls | Survives patchy networks |
-| Client | Flutter | Native x2 | One codebase, faster iteration |
-| Backend | Python (Flask/FastAPI) | Node | Fits my strengths + data tooling |
-| Storage | Postgres | NoSQL | Relational queries for assignments |
-| Maps | Cached tiles | Live only | Works with no signal |
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','lineColor':'#8a2be2','fontFamily':'monospace'}}}%%
+flowchart LR
+    D1["🔄 Sync model"] ==>|chosen| C1["✅ Outbox + idempotent API"]
+    D1 -.->|rejected| A1["Direct calls"]
+    C1 --- W1["Survives patchy networks"]
 
-### 🧗 Risks & Mitigations
+    D2["📱 Client"] ==>|chosen| C2["✅ Flutter"]
+    D2 -.->|rejected| A2["Two native apps"]
+    C2 --- W2["One codebase, faster iteration"]
 
-- **False or spam SOS** → rate limiting, verification flow, responder triage.
-- **Battery drain** → on-demand GPS, batched sync.
-- **Privacy leaks** → role-based access, retention limits, audit logs.
+    D3["⚙️ Backend"] ==>|chosen| C3["✅ Python (Flask / FastAPI)"]
+    D3 -.->|rejected| A3["Node"]
+    C3 --- W3["Fits my strengths + data tooling"]
+
+    D4["🗄️ Storage"] ==>|chosen| C4["✅ Postgres"]
+    D4 -.->|rejected| A4["NoSQL"]
+    C4 --- W4["Relational queries for assignments"]
+
+    D5["🗺️ Maps"] ==>|chosen| C5["✅ Cached tiles"]
+    D5 -.->|rejected| A5["Live-only maps"]
+    C5 --- W5["Works with no signal"]
+
+    classDef ok fill:#053b2a,stroke:#00ffb3,color:#fff;
+    classDef no fill:#3b0a0a,stroke:#ff4b4b,color:#fff;
+    class C1,C2,C3,C4,C5 ok;
+    class A1,A2,A3,A4,A5 no;
+```
+
+### 🧗 Risks → Mitigations
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    R1["🚫 False or spam SOS"] ==> M1["Rate limiting · verification · responder triage"]
+    R2["🔋 Battery drain"] ==> M2["On-demand GPS · batched sync"]
+    R3["🕵️ Privacy leaks"] ==> M3["Role-based access · retention limits · audit logs"]
+    classDef r fill:#3b0a0a,stroke:#ff4b4b,color:#fff;
+    classDef m fill:#053b2a,stroke:#00ffb3,color:#fff;
+    class R1,R2,R3 r;
+    class M1,M2,M3 m;
+```
 
 ---
 
-# 🛡️ `14 // QUALITY & SECURITY PRACTICES`
+# ⚙️ `15 // DEVOPS & QUALITY`
 
 ### ✅ Engineering Checklist
 
@@ -1091,9 +1626,25 @@ sequenceDiagram
 - [ ] Dependency scanning (Dependabot / `pip-audit`)
 - [ ] Container images built from minimal base images
 
+### 🚚 CI/CD Pipeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff'}}}%%
+flowchart LR
+    A["💻 Push / PR"] --> B["🧹 Lint<br/>ruff"]
+    B --> C["🧪 Tests<br/>pytest + coverage"]
+    C --> D["🔍 Audit<br/>pip-audit"]
+    D --> E["🐳 Build image"]
+    E --> F{"main branch?"}
+    F -- No --> G["💬 Report on PR"]
+    F -- Yes --> H["🚀 Deploy"]
+    H --> I["📈 Monitor"]
+```
+
 ### 🌿 Git Workflow
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 gitGraph
     commit id: "init"
     branch develop
@@ -1114,20 +1665,23 @@ gitGraph
     merge develop tag: "v1.0.0"
 ```
 
-### 🔐 Security Principles I Follow
+### 🔁 Pull Request Life Cycle
 
-| Principle | In practice |
-|:--|:--|
-| **Least privilege** | Minimal permissions for tokens, roles and containers |
-| **Defense in depth** | Validate → authenticate → authorize → log |
-| **Fail securely** | Safe defaults, generic error messages to clients |
-| **Never trust input** | Type checks, size limits, parameterised queries |
-| **Keep it patched** | Pin and update dependencies regularly |
-
-### 🧪 Sample CI Pipeline (`.github/workflows/ci.yml`)
+```mermaid
+%%{init: {'theme':'dark'}}%%
+stateDiagram-v2
+    direction LR
+    [*] --> Draft
+    Draft --> InReview: ready
+    InReview --> ChangesRequested: feedback
+    ChangesRequested --> InReview: fixes pushed
+    InReview --> Approved: looks good
+    Approved --> Merged: CI green
+    Merged --> [*]
+```
 
 <details>
-<summary><b>Click to expand</b></summary>
+<summary><b>🧪 Sample CI file (.github/workflows/ci.yml)</b></summary>
 
 ```yaml
 name: CI
@@ -1159,41 +1713,59 @@ jobs:
 
 ---
 
-# 📡 `15 // TECH RADAR & ACHIEVEMENTS`
+# 📡 `16 // TECH RADAR & GOALS`
 
-### 🎛️ Personal Tech Radar
+```mermaid
+%%{init: {'theme':'dark'}}%%
+quadrantChart
+    title Tech Radar (self-assessed, TODO: adjust)
+    x-axis Exploring --> Comfortable
+    y-axis Rarely Used --> Used in Projects
+    quadrant-1 Core Toolkit
+    quadrant-2 Growing Fast
+    quadrant-3 Learning
+    quadrant-4 Reliable Basics
+    Python: [0.85, 0.92]
+    Git: [0.80, 0.80]
+    Flask: [0.65, 0.70]
+    Flutter: [0.45, 0.75]
+    FastAPI: [0.50, 0.60]
+    scikit-learn: [0.50, 0.55]
+    Docker: [0.40, 0.45]
+    React: [0.40, 0.40]
+    PyTorch: [0.20, 0.25]
+    OpenCV: [0.18, 0.15]
+```
 
-| Ring | Technology | Notes |
-|:--|:--|:--|
-| 🟢 **Adopt** | Python, Git/GitHub, Flask, VS Code | Daily drivers |
-| 🟡 **Trial** | Flutter, FastAPI, Docker, scikit-learn, React | Building real projects with these |
-| 🔵 **Assess** | PyTorch, TensorFlow, OpenCV, Postgres | Learning and experimenting |
-| ⚪ **Hold** | Anything I can't test or explain | Understand it before using it |
+### 🎛️ Radar Rings
 
-> **TODO:** re-order this radar to reflect your genuine experience.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','lineColor':'#8a2be2','fontFamily':'monospace'}}}%%
+flowchart LR
+    H["⚪ HOLD<br/>Anything I can't test<br/>or explain yet"] -.-> A["🔵 ASSESS<br/>PyTorch · TensorFlow<br/>OpenCV · Postgres"] ==> T["🟡 TRIAL<br/>Flutter · FastAPI · Docker<br/>scikit-learn · React"] ==> AD["🟢 ADOPT<br/>Python · Git/GitHub<br/>Flask · VS Code"]
+    classDef a fill:#053b2a,stroke:#00ffb3,color:#fff;
+    classDef t fill:#3b3205,stroke:#ffd700,color:#fff;
+    classDef s fill:#07263b,stroke:#00d4ff,color:#fff;
+    class AD a; class T t; class A s;
+```
 
-### 🎓 Certifications & Courses
+### 🏅 Achievement Path
 
-| Credential | Issuer | Year | Link |
-|:--|:--|:--:|:--|
-| *Add your certification* | *Issuer* | 2026 | *URL* |
-| *Add your course* | *Platform* | 2026 | *URL* |
-
-### 🏅 Achievement Targets
-
-```text
-[ ] First open-source PR merged
-[ ] Project with 100+ GitHub stars
-[ ] Hackathon participation / win
-[ ] Published technical article
-[ ] Live demo with real users
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A1["✅ Hackathon<br/>participation<br/>(Smart India Hackathon)"] --> A2["⬜ First open-source PR"] --> A3["⬜ Published<br/>technical article"] --> A4["⬜ Live demo with<br/>real users"] --> A5["⬜ 100+ stars"] --> A6["⬜ Hackathon win"]
+    A1 -.-> C1["🎓 Add certification<br/>TODO"]
+    style A1 fill:#053b2a,stroke:#00ffb3,color:#fff
+    style C1 fill:#3b3205,stroke:#ffd700,color:#fff
 ```
 
 ---
 
-# 🏆 `16 // MILESTONES & RECOMMENDATIONS`
+# 🏆 `17 // THE LEVEL-UP MAP`
 
 ```mermaid
+%%{init: {'theme':'dark'}}%%
 timeline
     title Journey So Far
     section Foundations
@@ -1202,7 +1774,9 @@ timeline
     section Exploration
         Web and app experiments : Flask, Flutter
         AI and ML experiments : scikit-learn, NLP
+        Technical trainer : Taught Python, JavaScript, Java
     section Building
+        Smart India Hackathon : Team problem-solving
         Project concepts designed : Security, AI, disaster response
         Profile and portfolio launched : 2026
     section Next
@@ -1210,7 +1784,25 @@ timeline
         Contribute to open source : First merged PRs
 ```
 
-> **TODO:** replace timeline entries with your real dates and achievements.
+<sub>TODO: replace entries with your real dates and achievements.</sub>
+
+### 🎮 Game Map: My Developer Levels
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00f5ff','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    L1(["🥚 LVL 1<br/>Syntax and basics"]) --> L2(["🐣 LVL 2<br/>Small scripts and CLI tools"])
+    L2 --> L3(["🐥 LVL 3<br/>Web apps and APIs"])
+    L3 --> L4(["🦅 LVL 4<br/>ML models and evaluation"])
+    L4 --> L5(["🐉 LVL 5<br/>Deployed, tested, monitored systems"])
+    L5 --> L6(["👑 LVL 6<br/>Open-source and mentoring"])
+    YOU{{"📍 YOU ARE HERE<br/>TODO: move me"}} -.-> L4
+    style L1 fill:#053b2a,stroke:#00ffb3,color:#fff
+    style L2 fill:#053b2a,stroke:#00ffb3,color:#fff
+    style L3 fill:#053b2a,stroke:#00ffb3,color:#fff
+    style L4 fill:#3b3205,stroke:#ffd700,color:#fff
+    style YOU fill:#2a0a4a,stroke:#ff00ff,color:#fff
+```
 
 ### 💬 Recommendations
 
@@ -1219,18 +1811,12 @@ timeline
 
 ---
 
-# ❓ `17 // FAQ`
+# ❓ `18 // FAQ`
 
 <details>
 <summary><b>What are you working on right now?</b></summary>
 <br/>
 Moving my AI, security, and mobile project ideas from concept to documented, runnable repositories.
-</details>
-
-<details>
-<summary><b>What kind of collaboration are you open to?</b></summary>
-<br/>
-Open-source contributions, hackathons, learning groups, and small product prototypes — especially in AI and security.
 </details>
 
 <details>
@@ -1245,33 +1831,57 @@ Read the fundamentals, build a tiny prototype, test it, write down what broke, a
 Email is fastest: <a href="mailto:vanshbakshi62@gmail.com">vanshbakshi62@gmail.com</a>. You can also open an issue or follow me on GitHub.
 </details>
 
+### 🤝 How Can We Collaborate? (decision tree)
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#00ffb3','lineColor':'#ff00ff','fontFamily':'monospace'}}}%%
+flowchart TD
+    S(["👋 You found my profile"]) --> Q{"What are you looking for?"}
+    Q -->|"Open-source help"| A["Open an issue or PR<br/>on a repo"]
+    Q -->|"Hackathon teammate"| B["Email me with the theme<br/>and timeline"]
+    Q -->|"AI / security idea"| C["Share a short problem statement<br/>and let's prototype"]
+    Q -->|"Internship / opportunity"| D["Email me or message on LinkedIn"]
+    Q -->|"Just saying hi"| E["Star a repo, say hello 🙂"]
+    A & B & C & D & E --> Z(["🚀 Let's build"])
+```
+
 ---
 
-# 🌐 `18 // ESTABLISH CONNECTION`
+# 🌐 `19 // ESTABLISH CONNECTION`
 
 <div align="center">
 
 ### 🤝 LET'S BUILD SOMETHING EXTRAORDINARY
 
 Interested in software engineering, AI, open source, or innovative technology?
-
 Let's connect, exchange ideas, and create something useful.
 
-<br/>
+</div>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1a1040','primaryTextColor':'#e6faff','primaryBorderColor':'#ff00ff','lineColor':'#00f5ff','fontFamily':'monospace'}}}%%
+flowchart LR
+    YOU(("🫵 YOU")) ==> HUB{"📡 CONNECT"}
+    HUB --> G["🐙 GitHub<br/>VanshBakshi"]
+    HUB --> L["💼 LinkedIn<br/>TODO: add handle"]
+    HUB --> E["✉️ vanshbakshi62@gmail.com"]
+    HUB --> P["🌐 vanshbakshi.github.io"]
+    style YOU fill:#2a0a4a,stroke:#ff00ff,color:#fff,stroke-width:3px
+    style HUB fill:#07263b,stroke:#00d4ff,color:#fff
+```
+
+<div align="center">
 
 <a href="https://github.com/VanshBakshi">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW_THE_JOURNEY-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 <!-- TODO: replace YOUR-LINKEDIN-HANDLE with your real LinkedIn profile URL -->
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT_WITH_ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 <a href="mailto:vanshbakshi62@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-START_A_CONVERSATION-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://vanshbakshi.github.io/">
 <img src="https://img.shields.io/badge/PORTFOLIO-VISIT_SITE-FF00FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
 </a>
