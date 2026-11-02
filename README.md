@@ -40,9 +40,9 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
-<div align="center"><img src="./assets/matrix.svg" width="100%" alt="Matrix rain banner"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/matrix.svg" width="100%" alt="Matrix rain banner"/></div>
 
 ## 🧭 `00 // NAVIGATION`
 
@@ -69,11 +69,11 @@
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🌌 `01 // WELCOME TO THE CYBER UNIVERSE`
 
-<div align="center"><img src="./assets/terminal.svg" width="100%" alt="Animated terminal"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/terminal.svg" width="100%" alt="Animated terminal"/></div>
 
 
 ## 👨‍🚀 WHO AM I?
@@ -120,7 +120,7 @@ if __name__ == "__main__":
 
 </div>
 
-<div align="center"><img src="./assets/dna.svg" width="100%" alt="Developer DNA animation"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/dna.svg" width="100%" alt="Developer DNA animation"/></div>
 
 ### ⚡ Quick Facts (as a constellation)
 
@@ -172,13 +172,13 @@ mindmap
       Mentoring
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🧬 `02 // BOOT SEQUENCE`
 
 How "Vansh OS" starts every day:
 
-<div align="center"><img src="./assets/boot.svg" width="100%" alt="Boot sequence animation"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/boot.svg" width="100%" alt="Boot sequence animation"/></div>
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
@@ -212,7 +212,7 @@ Notes,Future me,5
 Commits,Portfolio,4
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🤖 `03 // THE TECHNOLOGY REACTOR`
 
@@ -244,7 +244,7 @@ Commits,Portfolio,4
 
 Planets orbit on their own. Color shows how comfortable I am: 🟢 comfortable · 🟡 building · 🔵 exploring. **TODO:** edit `SKILLS` in `assets/generate_assets.py` and re-run it to recolor.
 
-<div align="center"><img src="./assets/galaxy.svg" width="100%" alt="Animated skill galaxy"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/galaxy.svg" width="100%" alt="Animated skill galaxy"/></div>
 
 ### 🧱 The Full Stack in One Picture
 
@@ -282,7 +282,7 @@ Flutter,JeevanSetu,4
 Cloud Security,CloudMisconfig AI,2
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🛸 `04 // PROJECTS FROM THE DIGITAL FRONTIER`
 
@@ -475,13 +475,13 @@ flowchart LR
     style DONE fill:#053b2a,stroke:#00ffb3,color:#fff,stroke-width:3px
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🏛️ `05 // SYSTEM ARCHITECTURE LAB`
 
 ### 🌐 End-to-End AI Application
 
-<div align="center"><img src="./assets/architecture.svg" width="100%" alt="Animated architecture"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/architecture.svg" width="100%" alt="Animated architecture"/></div>
 
 ### 🔄 My Development Lifecycle
 
@@ -631,13 +631,13 @@ flowchart TD
     DB -->|Flexible documents| MG[("🍃 MongoDB")]
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🧠 `06 // AI & ML LAB`
 
 ### 🔁 Machine-Learning Lifecycle
 
-<div align="center"><img src="./assets/ml.svg" width="100%" alt="Animated ML pipeline"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/ml.svg" width="100%" alt="Animated ML pipeline"/></div>
 
 ### 🔎 RAG Pipeline
 
@@ -741,13 +741,13 @@ def evaluate(df: pd.DataFrame, target: str = "is_fraud") -> str:
     return classification_report(y_test, model.predict(X_test))
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🛡️ `07 // SECURITY LAB`
 
 ### 🧅 Defense in Depth
 
-<div align="center"><img src="./assets/security.svg" width="100%" alt="Animated defense in depth"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/security.svg" width="100%" alt="Animated defense in depth"/></div>
 
 ### 🕵️ Threat Modeling Loop (STRIDE-inspired)
 
@@ -820,7 +820,7 @@ mindmap
       Update regularly
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 📊 `08 // DEVELOPER TELEMETRY`
 
@@ -843,7 +843,7 @@ mindmap
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🐍 `09 // THE CONTRIBUTION MATRIX`
 
@@ -894,7 +894,7 @@ jobs:
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🧪 `10 // THE ENGINEERING MINDSET`
 
@@ -970,11 +970,11 @@ pie showData
     "Documentation" : 10
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🗺️ `11 // ROADMAP 2026`
 
-<div align="center"><img src="./assets/roadmap.svg" width="100%" alt="Animated roadmap"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/roadmap.svg" width="100%" alt="Animated roadmap"/></div>
 
 
 ```mermaid
@@ -1023,11 +1023,11 @@ flowchart LR
 - [ ] Publish a technical write-up or blog post
 - [ ] Earn a relevant certification *(TODO: choose one)*
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 📚 `12 // LEARNING LAB`
 
-<div align="center"><img src="./assets/skillbars.svg" width="100%" alt="Animated skill bars"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/skillbars.svg" width="100%" alt="Animated skill bars"/></div>
 
 
 ### 🌳 What I'm Studying
@@ -1147,7 +1147,7 @@ flowchart TB
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 💻 `13 // CODE SHOWCASE`
 
@@ -1389,7 +1389,7 @@ class SosOutbox {
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🔬 `14 // CASE STUDY: JEEVANSETU`
 
@@ -1410,7 +1410,7 @@ flowchart LR
 
 ### 🔁 Core Flow
 
-<div align="center"><img src="./assets/sos.svg" width="100%" alt="Animated offline-first SOS outbox"/></div>
+<div align="center"><img src="[./assets/sos.svg](https://github.com/VanshBakshi/VanshBakshi/blob/main/sos.svg)" width="100%" alt="Animated offline-first SOS outbox"/></div>
 
 
 ```mermaid
@@ -1503,7 +1503,7 @@ flowchart LR
     class M1,M2,M3 m;
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # ⚙️ `15 // DEVOPS & QUALITY`
 
@@ -1602,11 +1602,11 @@ jobs:
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 📡 `16 // TECH RADAR & GOALS`
 
-<div align="center"><img src="./assets/radar.svg" width="100%" alt="Animated tech radar"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/radar.svg" width="100%" alt="Animated tech radar"/></div>
 
 
 ```mermaid
@@ -1654,7 +1654,7 @@ flowchart LR
     style C1 fill:#3b3205,stroke:#ffd700,color:#fff
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🏆 `17 // THE LEVEL-UP MAP`
 
@@ -1703,7 +1703,7 @@ flowchart LR
 > *Add a short quote from a teacher, mentor, teammate, or LinkedIn recommendation here.*
 > — **Name, Role**
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # ❓ `18 // FAQ`
 
@@ -1739,7 +1739,7 @@ flowchart TD
     A & B & C & D & E --> Z(["🚀 Let's build"])
 ```
 
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="divider"/></div>
+<div align="center"><img src="https://github.com/VanshBakshi/VanshBakshi/blob/main/divider.svg" width="100%" alt="divider"/></div>
 
 # 🌐 `19 // ESTABLISH CONNECTION`
 
